@@ -17,33 +17,33 @@ Our intent is to guide and prepare uni students for a CS career they enjoy, not 
 
 This guide is divided into the following sections:
 
-[Mindset and Balancing Life](#mindset-and-balancing-life)
+- [Mindset and Balancing Life](#mindset-and-balancing-life)
 
-[Is CS Right For Me?](#is-cs-right-for-me)
+- [Is CS Right For Me?](#is-cs-right-for-me)
 
-[Classes](#classes)
+- [Classes](#classes)
 
-[Projects](#projects)
+- [Projects](#projects)
 
-[Hackathons](#hacakathons)
+- [Hackathons](#hacakathons)
 
-[Resume](#resume)
+- [Resume](#resume)
 
-[Friends and Networking](#friends-and-networking)
+- [Friends and Networking](#friends-and-networking)
 
-[Freshman Year](#freshman-year)
+- [Freshman Year](#freshman-year)
 
-[Sophomore Year](#sophomore-year)
+- [Sophomore Year](#sophomore-year)
 
-[Junior Year](#junior-year)
+- [Junior Year](#junior-year)
 
-[Senior Year](#senior-year)
+- [Senior Year](#senior-year)
 
-[Searching for Internships](#searching-for-internships)
+- [Searching for Internships](#searching-for-internships)
 
-[Searching for Full Time Jobs](#searching-for-full-time-jobs)
+- [Searching for Full Time Jobs](#searching-for-full-time-jobs)
 
-[Final Thoughts](#final-thoughts)
+- [Final Thoughts](#final-thoughts)
 
 
 
@@ -138,10 +138,10 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 ## Classes:
 
-### *What Classes should I take?*
+### What Classes should I take?
 
 
-#### *Should Already be Required* (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
+#### Should Already be Required (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
 
 - **Programming in Java/C++/Python (OOP)**: This is how you’re gonna start coding.
 
@@ -152,7 +152,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 - **Low Level Programming /C**: Teaches you what coding used to be like in the old days. 
 
 
-#### *Must Take* (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
+#### Must Take (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
 
 - **Computer Networks**: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
 
@@ -163,7 +163,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 - **Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
 
 
-#### *Good to Have*
+#### Good to Have
 
 - **Full-stack web dev** (pref MERN stack, our school offered both LAMP and MERN)
 
@@ -180,17 +180,17 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 /u/rishiss: You’re more than likely coughing up hundreds, if not thousands, to attend university. It makes no sense to not take full advantage of the course and course staff.
 
-**Do the readings beforehand** – Dr. K explains [how studying before class is an OP mechanic](https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on [how to study](https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
+- **Do the readings beforehand** – Dr. K explains [how studying before class is an OP mechanic](https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on [how to study](https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
 
-**Attend EVERY lecture, sit at the front of the class** – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
+- **Attend EVERY lecture, sit at the front of the class** – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
 
-**Take notes on Google Docs** – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
+- **Take notes on Google Docs** – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
 
-**Make a study guide, even though the professor does not give you one** – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
+- **Make a study guide, even though the professor does not give you one** – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
 
-**Go to office hours and become close with 1-2 professors** – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
+- **Go to office hours and become close with 1-2 professors** – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
 
-**START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
+- **START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
 
 In the quarters where I attended half of the lectures, never read the book, and crammed before due dates and exams, I was averaging a B in my classes. In the quarters where I followed the steps above, I never got a grade lower than an A-.
 
@@ -205,17 +205,17 @@ During your time in college, you’re most likely going to have at least one bad
 
 ### How do I succeed in projects?
 
-**Reading the Project Requirements:** Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
+- **Reading the Project Requirements:** Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
 
-**Learn to Debug:** Learning how to debug saves you countless hours trying to read through code you might not understand.
+- **Learn to Debug:** Learning how to debug saves you countless hours trying to read through code you might not understand.
 
-[**Learn to write Clean Code**](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c): With this and being able to debug, you’re going to be able to write very efficient code and to debug issues easily, thus not making you only successful in lab assignments, but also making you a better programmer.
+- [**Learn to write Clean Code**](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c): With this and being able to debug, you’re going to be able to write very efficient code and to debug issues easily, thus not making you only successful in lab assignments, but also making you a better programmer.
 
-**Plan your work out:** This allows you to simplify the logic you are writing and this usually leads to clean code.
+- **Plan your work out:** This allows you to simplify the logic you are writing and this usually leads to clean code.
 
-**Ask for help:** If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
+- **Ask for help:** If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
 
-**Draw Pictures:** If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
+- **Draw Pictures:** If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
 
 ### Projects and your CS Career
 
@@ -255,32 +255,32 @@ Non-Career Group - While having a group that motivates you for your career is im
 
 /u/rishiss: Here are the few take-aways on writing a resume that gets through the ATS.
 
-**Make your resume accomplishment driven, not just a list of your responsibilities** – [This guy puts it best](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) TL;DR: Your bullets should be in the format -> Accomplished X by doing Y as measured by Z.
+- **Make your resume accomplishment driven, not just a list of your responsibilities** – [This guy puts it best](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) TL;DR: Your bullets should be in the format -> Accomplished X by doing Y as measured by Z.
 
-**Don’t put school projects that every other CS student in your school has completed.** Recruiters are able to figure it out and will look down upon this a lot, as it shows you’re not doing anything outside the classroom to forward your career. Capstone projects are perfectly okay.
+- **Don’t put school projects that every other CS student in your school has completed.** Recruiters are able to figure it out and will look down upon this a lot, as it shows you’re not doing anything outside the classroom to forward your career. Capstone projects are perfectly okay.
 
-**Make it a simple, one-column that recruiters can easily read through.** There’s a lot of fancy, custom Adobe Resumes out there that the ATS can’t parse well. There’s no need for pictures, graphics, colors, fonts, etc.
+- **Make it a simple, one-column that recruiters can easily read through.** There’s a lot of fancy, custom Adobe Resumes out there that the ATS can’t parse well. There’s no need for pictures, graphics, colors, fonts, etc.
 
-**Exceptions:** The company you are applying for is small, you’re going to a career fair and you know your resume will be hand-read, you’re a UI/UX person or a Graphic Designer
+- **Exceptions:** The company you are applying for is small, you’re going to a career fair and you know your resume will be hand-read, you’re a UI/UX person or a Graphic Designer
 
 Keep it simple; the content should be carrying you.
 
-**Have at least 3 minimum (I aim for 4-5) per work experience/project**; it makes no sense when you have such amazing experience and only put two bullets.
+- **Have at least 3 minimum (I aim for 4-5) per work experience/project**; it makes no sense when you have such amazing experience and only put two bullets.
 
-**If you have a GPA lower than a 3.0, do not bother keeping it on the resume.** If you have a 3.5 +, make sure to keep it.
+- **If you have a GPA lower than a 3.0, do not bother keeping it on the resume.** If you have a 3.5 +, make sure to keep it.
  
-**Make formatting consistent.** This should be a no brainer, but I still see folks’ resume with different fonts, spacing, etc. It’s annoying; don’t do it.
+- **Make formatting consistent.** This should be a no brainer, but I still see folks’ resume with different fonts, spacing, etc. It’s annoying; don’t do it.
 
-**Focus on individual contributions and leadership, not the team.** Recruiters are looking for self-starters and leaders that can see a project throughout the lifecycle, not just another code monkey.
+- **Focus on individual contributions and leadership, not the team.** Recruiters are looking for self-starters and leaders that can see a project throughout the lifecycle, not just another code monkey.
 
 If something you worked on had impact(reduced company cost by x%, etc), definitely mention it. Recruiters love seeing if your work was able to help someone or a company.
 Expect to be tested on anything you put on your resume. If you don’t think you can answer questions about a skill, tech, or experience on your resume, don’t bother putting it in.
 
-**Make sure to add these items in your resume:** Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio)
+- **Make sure to add these items in your resume:** Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio)
 
-**Take out any old or irrelevant experience.** Nobody cares about that Tic Tac Toe game you made in high school.
+- **Take out any old or irrelevant experience.** Nobody cares about that Tic Tac Toe game you made in high school.
 
-**Get your resume reviewed multiple times by experienced people in tech.** /r/csMajors and /r/cscareerquestions also has a weekly resume roast thread that you can take advantage of.
+- **Get your resume reviewed multiple times by experienced people in tech.** /r/csMajors and /r/cscareerquestions also has a weekly resume roast thread that you can take advantage of.
 
 ## Searching for Internships
 
