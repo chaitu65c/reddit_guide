@@ -17,7 +17,7 @@ Our intent is to guide and prepare uni students for a CS career they enjoy, not 
 
 This guide is divided into the following sections:
 
-Mindset/Balancing Life
+[Mindset/Balancing Life](# mindset/balancing-life)
 
 Is CS Right for Me?
 
