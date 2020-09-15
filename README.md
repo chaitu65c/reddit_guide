@@ -13,15 +13,17 @@ We have also created a guide with our own personal advice and stories. https://d
 Please, take this advice with a grain of salt. we’re not Tony Robinson or Tim Apple, we’re just two random reddit users.
 
 Table of Contents:
+
 This guide is divided into the following sections:
+
 Mindset/Balancing Life
 Is CS Right for Me?
 Classes
 Projects
 Hackathons
 Resume
- Friends/Networking
- Freshman Year/Getting Involved/WTF Do I do?
+Friends/Networking
+Freshman Year/Getting Involved/WTF Do I do?
 Sophomore Year
 Junior Year
 Senior Year
@@ -31,22 +33,33 @@ Negotiation
 Final Thoughts
 Each Section also has a ‘Story Time’ section which includes personal anecdotes about some of our mistakes, successes, etc.
 
-####Mindset/Balancing Life
-#Success is an attitude.
+#### Mindset/Balancing Life
+
+# Success is an attitude.
+
 The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a Growth Mindset (https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
+
 But, what does this have to do with CS? A lot. In your college career, you’re going to be bashing your head trying to debug your code, you’re going to get a project and have no idea where the fuck to even start, you’re going to compare yourself to that Google intern, hell, you may even think of changing majors and quitting CS altogether. If you want to be successful in CS, you’re going to have to be optimistic in finding a solution, you’re going to have to spend 4 hours RTFMing and browsing Stack Overflow, you’re going to ask that Google intern for advice, and you’re going to have to gain confidence with what you’re doing.
+
 We all start somewhere, and we all fail. Success is the attitude to get back up and push through, no matter where we came from.
+
 Moving away from the psychology/motivational mumbo jumbo, the other thing I’ve noticed about successful CS kids at school is their great balance with their social, work, and school life. They definitely put in the time for homework, exams, etc, but also make sure to work out, occasionally drink with friends, and watch anime. They’re responsible adults; they don’t procrastinate on assignments, play League 24/7, and get high everyday. IMO, building a strong work ethic and leaving time to play will take you far.
+
 Is CS Right for me?
 You'll never know until you try.
 The way we see it, there’s 3 types of people pursuing CS.
-1.       Those who know CS isn’t for them – They’re in it for the money, to appease their parents, for a minor/requirement, some external factor. They hated programming while taking the introductory CS course and just try to get done with their class/degree ASAP.
+1. Those who know CS isn’t for them – They’re in it for the money, to appease their parents, for a minor/requirement, some external factor. They hated programming while taking the introductory CS course and just try to get done with their class/degree ASAP.
+
 Advice: The majority of people who fall under this usually burn out quickly as they aren’t motivated enough to learn the material and to apply themselves. This usually leads to them cheating and getting kicked out. Before you even start this major, you should definitely understand that this isn’t going to be easy and you do have to put in a lot of effort to succeed. If this isn’t your cup of tea, definitely look into switching into another major you like.
-2.       Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
+
+2.Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
 Advice: Really take the time to learn and be open to anything you go through. A good sign that you should look for in continuing CS is when you complete a Data Structures course, usually one of the hardest courses out there. If you don’t understand anything no matter how hard you try, it’s definitely to switch majors/careers as you did it your best shot. But if you do understand and even enjoy it, you’re most likely gonna stick with CS at this point.
-3.       Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
+
+3. Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
 Advice: Learn to broaden your scope and learn new areas of CS! Who knows, you might find another new field that you really want to work in. Other than that, definitely make new friends regardless of whether they’re a CS major or not.
-Freshman Year
+
+# Freshman Year
+
 Don’t take more than 3-4 classes in your first quarter/semester. Attend your classes, of course, but make sure to keep ample amount of time to go to professional/social events and self-learning.
 The biggest issue we see with freshmen (even upperclassmen) is their ignorance on all the avenues available in the CS Industry. So we’ve tried to narrow it down (not exhaustive).
 1.       Cyber Security Engineer
