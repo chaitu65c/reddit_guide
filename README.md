@@ -214,7 +214,7 @@ During your time in college, you’re most likely going to have at least one bad
 
 **Ask for help:** If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
 
-(Optional) Drawing Pictures: If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
+**Draw Pictures:** If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
 
 ### Projects and your CS Career
 
@@ -309,7 +309,7 @@ Some companies may adopt only one of these interviews and some may adopt all. We
 Once you finish the OA(Online Assessment), a recruiter might reach out to officially start the process. While doing this, it’s highly recommended that you look up the interview experiences that other students have faced so that you can potentially filter out companies with red flags. Common sources to search up on this would be Reddit (r/csMajors and r/cscareerquestions), Jumpstart (Relatively new portal for students), Glassdoor and maybe Blind (Aside from the toxic TC or GTFO culture, they do give good advice on interviews). With that said, here’s some advice we have when you approach each kind of interview we’ve seen.
 
 #### Advice on Behavioral Interviews
-Use the STAR method when describing your experiences (https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629). Being quantifiable with the impact of your actions will impress the interviewer. 
+Use the [STAR method](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) when describing your experiences. Being quantifiable with the impact of your actions will impress the interviewer. 
 
 #### Advice on Technical Interviews
 Begin by reviewing your notes from the Data Structures and Algorithms class. Do not proceed further until you know how to implement these DS and As from scratch with the language of your choice(If you do know python, it’s recommended as there’s a lot of builtin features!). After doing so,  we highly recommend a book like CTCI and EPI to gain a review on programming language details and your DS and As. Then, visit sites like LeetCode to practice real questions from major companies. A Facebook Engineer completed 600 LeetCode problems and compiled the most important ones into a [list here](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). During the interview, make sure to talk out loud about possible approaches and tradeoffs before whiteboarding. It is perfectly acceptable (often recommended) to ask the interviewer to ask questions about the problem and get clarification. Once you have an idea in mind and have talked about it with your interviewer, begin whiteboarding. While you talk about the final idea you want to use, write out pseudo code and comments about all the steps you need to implement in order to finish coding your solution. After that, start coding. Make sure to have proper function headers, syntax, spacing, classes/structs, imports, etc. After coding your solution, give a brief explanation and attempt to make it run with less space and in less time (if your solution is not as efficient as you think it can be). 
@@ -348,7 +348,7 @@ University is a probably the most important time of your life and a foundational
 
 **Big N** – A collective placeholder for the top CS companies in the industry. (Google, Facebook, Microsoft, Amazon, Apple, etc.)
 
-**Big O Notation** - A notation used for asymptomatic analysis. Commonly used to describe how much memory/time an algorithm or data structure will take. (https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+[**Big O Notation**](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation) - A notation used for asymptomatic analysis. Commonly used to describe how much memory/time an algorithm or data structure will take. 
 
 **F100** – Fortune 100
 
