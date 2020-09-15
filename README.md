@@ -21,33 +21,31 @@ This guide is divided into the following sections:
 
 [Is CS Right For Me?](#is-cs-right-for-me)
 
-Classes
+[Classes](#classes)
 
-Projects
+[Projects](#projects)
 
-Hackathons
+[Hackathons](#hacakathons)
 
-Resume
+[Resume](#resume)
 
-Friends/Networking
+[Friends/Networking](#friends/networking)
 
-Freshman Year/Getting Involved/WTF Do I do?
+[Freshman Year](#freshman-year)
 
-Sophomore Year
+[Sophomore Year](#sophomore-year)
 
-Junior Year
+[Junior Year](#junior-year)
 
-Senior Year
+[Senior Year](#senior-year)
 
-Searching/Prepping for Internships
+[Searching for Internships](#searching-for-internships)
 
-Searching/Prepping for Full-Time Jobs
+[Searching for Full Time Jobs](#searching-for-full-time-jobs)
 
-Negotiation
+[Final Thoughts](#final-thoughts)
 
-Final Thoughts
 
-Each Section also has a ‘Story Time’ section which includes personal anecdotes about some of our mistakes, successes, etc.
 
 ## Mindset/Balancing Life
 
@@ -320,7 +318,7 @@ These are somewhat hard to approach if you don’t have experience ever doing it
 #### Advice on Concurrency/Low level
 Understand basic principles such as Processes vs Threads (A lot of people don’t know the difference!)TCP vs UDP and how to make an application thread safe(Make sure stuff doesn’t go haywire when multiple threads access and overwrite something). Other than that, it’s recommended that you familiarize yourself with basic OS concepts such as Deadlocks, locks that you can utilize to make an application thread safe, etc.
 
-## Searching for a Full-Time Job:
+## Searching for Full Time Jobs:
 
 The process for finding a Full-Time Job is usually very similar to finding an Internship. There’s three main differences are: 
 
