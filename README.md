@@ -1,11 +1,17 @@
 An /r/cscareerquestions College Survival Guide
+
 With our final school year beginning, we were reflecting on how lost and confused we were when we first started university. We made a lot of mistakes (still am) along the way, but we’re in a much better place after learning from them and constantly putting ourselves out there. In hopes of shining some light and helping others, we decided to make a comprehensive guide for university students – based on our knowledge/experiences - on how to start your successful CS Career (or gain the wisdom to avoid CS altogether, more on this later).
+
 /u/rishiss Background: I am a 4th year student at UC Irvine majoring in Software Engineering. I am an incoming Software Engineer at a F100 company (received return offer after interning this summer).  Before that, I interned at an R & D center for space, a small cloud company, and a small IT company. I have a 3.65 GPA, won a few awards at startup competitions/hackathons, and remain pretty active in my schools CS organizations. I began coding in high school taking an ‘Intro to CS’ course.
+
 /u/chaitu65c Background: I’m a 4th year student at UC Irvine majoring in Computer Science. I’m currently a SWE Intern at a Unicorn and just wrapped up my 2nd internship at a Live Streaming Company(you can most likely tell who they are if you browse my history LOL). Before this, I interned at my school’s IT department, did research under a professor, and worked on a few small startups that other UCI students were building. I have a 3.3 GPA, won some awards along /u/rishiss and was pretty active in my school’s CS clubs. I also began coding in high school through an intro to CS course.
+
 Disclaimer: “But /u/rishiss/ and /u/chaitu65c, you don’t work at a Big N, go to a target CS school, why should I take your advice?” You’re absolutely right; we are, by no means, ‘up there’ like some other folks on this sub. And, you don’t have to take our advice! Simply close this tab and do whatever else you want 😊.
 Our intent is to guide and prepare uni students for a CS career they enjoy, not work at Big N or get the highest TC. Life is much more than a dick-measuring contest, and the earlier you learn that the better.
+
 We have also created a guide with our own personal advice and stories. https://docs.google.com/document/d/1QpbntzGn3DG64nYSE2Av9AlszZB2hqXWVdIqCSCj1qg/edit?usp=sharing
 Please, take this advice with a grain of salt. we’re not Tony Robinson or Tim Apple, we’re just two random reddit users.
+
 Table of Contents:
 This guide is divided into the following sections:
 Mindset/Balancing Life
@@ -24,8 +30,9 @@ Searching/Prepping for Full-Time Jobs
 Negotiation
 Final Thoughts
 Each Section also has a ‘Story Time’ section which includes personal anecdotes about some of our mistakes, successes, etc.
-Mindset/Balancing Life
-Success is an attitude.
+
+####Mindset/Balancing Life
+#Success is an attitude.
 The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a Growth Mindset (https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 But, what does this have to do with CS? A lot. In your college career, you’re going to be bashing your head trying to debug your code, you’re going to get a project and have no idea where the fuck to even start, you’re going to compare yourself to that Google intern, hell, you may even think of changing majors and quitting CS altogether. If you want to be successful in CS, you’re going to have to be optimistic in finding a solution, you’re going to have to spend 4 hours RTFMing and browsing Stack Overflow, you’re going to ask that Google intern for advice, and you’re going to have to gain confidence with what you’re doing.
 We all start somewhere, and we all fail. Success is the attitude to get back up and push through, no matter where we came from.
