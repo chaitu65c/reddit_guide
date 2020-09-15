@@ -143,37 +143,37 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 #### *Should Already be Required* (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
 
-**Programming in Java/C++/Python (OOP)**: This is how you’re gonna start coding.
+- **Programming in Java/C++/Python (OOP)**: This is how you’re gonna start coding.
 
-**Boolean Algebra/Discrete Math**: Teaches you some background knowledge to CS.
+- **Boolean Algebra/Discrete Math**: Teaches you some background knowledge to CS.
 
-**Data Structures and Algorithms**: Teaches you some ways data is stored and retrieved. Very important as you’re going to be using them a lot.
+- **Data Structures and Algorithms**: Teaches you some ways data is stored and retrieved. Very important as you’re going to be using them a lot.
 
-**Low Level Programming /C**: Teaches you what coding used to be like in the old days. 
+- **Low Level Programming /C**: Teaches you what coding used to be like in the old days. 
 
 
 #### *Must Take* (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
 
-**Computer Networks**: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
+- **Computer Networks**: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
 
-**Operating Systems/UNIX**: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
+- **Operating Systems/UNIX**: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
 
-**Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
+- **Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
 
-**Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
+- **Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
 
 
 #### *Good to Have*
 
-**Full-stack web dev** (pref MERN stack, our school offered both LAMP and MERN)
+- **Full-stack web dev** (pref MERN stack, our school offered both LAMP and MERN)
 
-**Very deep understanding of at least one language.** (You’ll be surprised to learn how many students who graduate fail to do this)
+- **Very deep understanding of at least one language.** (You’ll be surprised to learn how many students who graduate fail to do this)
  
-**Semester/Year-Long Capstone course (pref working with a company) if your school supports it:** an internship where you get credits instead of money.
+- **Semester/Year-Long Capstone course (pref working with a company) if your school supports it:** an internship where you get credits instead of money.
 
-**Compilers**: Teaches you how programming languages are implemented 'under the hood.'
+- **Compilers**: Teaches you how programming languages are implemented 'under the hood.'
 
-**Human Computer Interaction**: If you weren’t able to learn Full-stack web dev
+- **Human Computer Interaction**: If you weren’t able to learn Full-stack web dev
 
 
 ### How do I succeed in these classes?
