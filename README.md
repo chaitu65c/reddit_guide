@@ -29,7 +29,7 @@ This guide is divided into the following sections:
 
 [Resume](#resume)
 
-[Friends/Networking](#friends/networking)
+[Friends and Networking](#friends-and-networking)
 
 [Freshman Year](#freshman-year)
 
@@ -240,7 +240,7 @@ Take advantage of the resources available at hackathons. You’re attending a mi
 
 If you’re looking to get an award, judges at hackathons care a lot about the pitch and the idea rather than the actual execution of the idea. Having an idea beforehand is also helpful, so you can spend your time focusing on the MVP. 
 
-## Friends/Networking
+## Friends and Networking
 
 /u/chaitu65c: I think it’s definitely useful if you have two different friend groups: One dedicated to career and Non-Career Group.
 
@@ -279,7 +279,7 @@ Expect to be tested on anything you put on your resume. If you don’t think you
 
 **Get your resume reviewed multiple times by experienced people in tech.** /r/csMajors and /r/cscareerquestions also has a weekly resume roast thread that you can take advantage of.
 
-## Searching for an Internship
+## Searching for Internships
 
 Searching for internships in CS is really different and harder from searching for internships in other professions. CS internship interview processes are often longer and much more technical on what you have learned as a CS major. For example, the process for Big Ns and Unicorns usually begins with an Online Assessment (OA) involving multiple choice and coding questions about Data Structures, Algorithms, and Run Time Complexity. After passing this OA, you may be invited to an onsite “Power-Day,” where interviewees attend 3-4 whiteboard interviews while being grilled on their technical skills and projects (You are often pampered with free travel, food, stipends, etc). 
 
