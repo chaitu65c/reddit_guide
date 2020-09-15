@@ -1,4 +1,4 @@
-#### An /r/cscareerquestions College Survival Guide
+# An /r/cscareerquestions College Survival Guide
 
 With our final school year beginning, we were reflecting on how lost and confused we were when we first started university. We made a lot of mistakes (still am) along the way, but we’re in a much better place after learning from them and constantly putting ourselves out there. In hopes of shining some light and helping others, we decided to make a comprehensive guide for university students – based on our knowledge/experiences - on how to start your successful CS Career (or gain the wisdom to avoid CS altogether, more on this later).
 
@@ -35,7 +35,7 @@ Each Section also has a ‘Story Time’ section which includes personal anecdot
 
 ## Mindset/Balancing Life
 
-# Success is an attitude.
+### Success is an attitude.
 
 The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a Growth Mindset (https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 
