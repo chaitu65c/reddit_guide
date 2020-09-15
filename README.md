@@ -138,8 +138,8 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 ## Classes:
 
-
 ### *What Classes should I take?*
+
 
 #### *Should Already be Required* (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
 
@@ -151,6 +151,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 **Low Level Programming /C**: Teaches you what coding used to be like in the old days. 
 
+
 #### *Must Take* (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
 
 **Computer Networks**: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
@@ -160,6 +161,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 **Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
 
 **Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
+
 
 #### *Good to Have*
 
@@ -172,6 +174,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 **Compilers**: Teaches you how programming languages are implemented 'under the hood.'
 
 **Human Computer Interaction**: If you weren’t able to learn Full-stack web dev
+
 
 ### How do I succeed in these classes?
 
