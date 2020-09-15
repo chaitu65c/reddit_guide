@@ -51,18 +51,19 @@ Each Section also has a ‘Story Time’ section which includes personal anecdot
 
 ## Mindset/Balancing Life
 
-#### Success is an attitude.
+#### *Success is an attitude.*
 
 The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a Growth Mindset (https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 
 But, what does this have to do with CS? A lot. In your college career, you’re going to be bashing your head trying to debug your code, you’re going to get a project and have no idea where the fuck to even start, you’re going to compare yourself to that Google intern, hell, you may even think of changing majors and quitting CS altogether. If you want to be successful in CS, you’re going to have to be optimistic in finding a solution, you’re going to have to spend 4 hours RTFMing and browsing Stack Overflow, you’re going to ask that Google intern for advice, and you’re going to have to gain confidence with what you’re doing.
 
-#### We all start somewhere, and we all fail. Success is the attitude to get back up and push through, no matter where we came from.
+#### *We all start somewhere, and we all fail. Success is the attitude to get back up and push through, no matter where we came from.*
 
 Moving away from the psychology/motivational mumbo jumbo, the other thing I’ve noticed about successful CS kids at school is their great balance with their social, work, and school life. They definitely put in the time for homework, exams, etc, but also make sure to work out, occasionally drink with friends, and watch anime. They’re responsible adults; they don’t procrastinate on assignments, play League 24/7, and get high everyday. IMO, building a strong work ethic and leaving time to play will take you far.
 
 ## Is CS Right for me?
-#### You'll never know until you try.
+
+#### *You'll never know until you try.*
 
 The way we see it, there’s 3 types of people pursuing CS.
 
@@ -140,7 +141,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 ## Classes:
 
 
-*### What Classes should I take?*
+### *What Classes should I take?*
 
 #### Should Already be Required (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
 
@@ -203,15 +204,15 @@ During your time in college, you’re most likely going to have at least one bad
 
 ### How do I succeed in projects?
 
-Reading the Project Requirements: Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
+**Reading the Project Requirements:** Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
 
-Learn to Debug: Learning how to debug saves you countless hours trying to read through code you might not understand.
+**Learn to Debug:** Learning how to debug saves you countless hours trying to read through code you might not understand.
 
-Learn to write Clean Code (Example article: https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c): With this and being able to debug, you’re going to be able to write very efficient code and to debug issues easily, thus not making you only successful in lab assignments, but also making you a better programmer.
+[**Learn to write Clean Code**](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c): With this and being able to debug, you’re going to be able to write very efficient code and to debug issues easily, thus not making you only successful in lab assignments, but also making you a better programmer.
 
-Plan your work out: This allows you to simplify the logic you are writing and this usually leads to clean code.
+**Plan your work out:** This allows you to simplify the logic you are writing and this usually leads to clean code.
 
-Ask for help: If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
+**Ask for help:** If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
 
 (Optional) Drawing Pictures: If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
 
@@ -323,11 +324,11 @@ Understand basic principles such as Processes vs Threads (A lot of people don’
 
 The process for finding a Full-Time Job is usually very similar to finding an Internship. There’s three main differences are: 
 
-1. The questions that are asked in interviews are usually harder. Ex: Google usually asks Leetcode Mediums to Hards + the special Leetcode Hard question that Google asks it’s applicants (they create a new one every year).
+1. **Harder Questions**. Ex: Google usually asks Leetcode Mediums to Hards + the special Leetcode Hard question that Google asks it’s applicants (they create a new one every year).
 
-2. There’s more to the process aka more rounds. For example, Microsoft makes interns do 2 rounds while New Grads do 4 rounds during the onsite part of the process.
+2. **More Rounds of Interviewing**: For example, Microsoft makes interns do 2 rounds while New Grads do 4 rounds during the onsite part of the process.
 
-3. Compensation, Interns usually get an hourly rate and, possibly, a housing stipedd. New grads, however, are given a yearly salary and, possibly, a sign-on bonus, stocks, and benefits e.g. health insurance, vacation days, etc.
+3. **Compensation**: Interns usually get an hourly rate and, possibly, a housing stipedd. New grads, however, are given a yearly salary and, possibly, a sign-on bonus, stocks, and benefits e.g. health insurance, vacation days, etc.
 
 The process for finding a Full-time Job won’t really change as much as finding an internship, but keep in mind that the bar is higher. This is probably the biggest reason why you should look into interning early; by getting an offer at the place you like, you don’t necessarily need to go through the daunting process of finding a full-time role unless you want to negotiate for a higher compensation package.
 
