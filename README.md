@@ -1,4 +1,4 @@
-##### An /r/cscareerquestions College Survival Guide
+#### An /r/cscareerquestions College Survival Guide
 
 With our final school year beginning, we were reflecting on how lost and confused we were when we first started university. We made a lot of mistakes (still am) along the way, but we’re in a much better place after learning from them and constantly putting ourselves out there. In hopes of shining some light and helping others, we decided to make a comprehensive guide for university students – based on our knowledge/experiences - on how to start your successful CS Career (or gain the wisdom to avoid CS altogether, more on this later).
 
@@ -33,7 +33,7 @@ Negotiation
 Final Thoughts
 Each Section also has a ‘Story Time’ section which includes personal anecdotes about some of our mistakes, successes, etc.
 
-#### Mindset/Balancing Life
+## Mindset/Balancing Life
 
 # Success is an attitude.
 
