@@ -17,9 +17,9 @@ Our intent is to guide and prepare uni students for a CS career they enjoy, not 
 
 This guide is divided into the following sections:
 
-[Mindset/Balancing Life](##mindset/balancing-life)
+[Mindset/Balancing Life](#mindset/balancing-life)
 
-Is CS Right for Me?
+[Is CS Right For Me?](#is-cs-right-for-me)
 
 Classes
 
@@ -61,7 +61,7 @@ But, what does this have to do with CS? A lot. In your college career, you’re 
 
 Moving away from the psychology/motivational mumbo jumbo, the other thing I’ve noticed about successful CS kids at school is their great balance with their social, work, and school life. They definitely put in the time for homework, exams, etc, but also make sure to work out, occasionally drink with friends, and watch anime. They’re responsible adults; they don’t procrastinate on assignments, play League 24/7, and get high everyday. IMO, building a strong work ethic and leaving time to play will take you far.
 
-## Is CS Right for me?
+## Is CS Right For Me?
 
 #### *You'll never know until you try.*
 
