@@ -17,20 +17,34 @@ Table of Contents:
 This guide is divided into the following sections:
 
 Mindset/Balancing Life
+
 Is CS Right for Me?
 Classes
+
 Projects
+
 Hackathons
+
 Resume
+
 Friends/Networking
+
 Freshman Year/Getting Involved/WTF Do I do?
+
 Sophomore Year
+
 Junior Year
+
 Senior Year
+
 Searching/Prepping for Internships
+
 Searching/Prepping for Full-Time Jobs
+
 Negotiation
+
 Final Thoughts
+
 Each Section also has a ‘Story Time’ section which includes personal anecdotes about some of our mistakes, successes, etc.
 
 ## Mindset/Balancing Life
