@@ -69,9 +69,11 @@ The way we see it, there’s 3 types of people pursuing CS.
 Advice: The majority of people who fall under this usually burn out quickly as they aren’t motivated enough to learn the material and to apply themselves. This usually leads to them cheating and getting kicked out. Before you even start this major, you should definitely understand that this isn’t going to be easy and you do have to put in a lot of effort to succeed. If this isn’t your cup of tea, definitely look into switching into another major you like.
 
 2. Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
+
 Advice: Really take the time to learn and be open to anything you go through. A good sign that you should look for in continuing CS is when you complete a Data Structures course, usually one of the hardest courses out there. If you don’t understand anything no matter how hard you try, it’s definitely to switch majors/careers as you did it your best shot. But if you do understand and even enjoy it, you’re most likely gonna stick with CS at this point.
 
 3. Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
+
 Advice: Learn to broaden your scope and learn new areas of CS! Who knows, you might find another new field that you really want to work in. Other than that, definitely make new friends regardless of whether they’re a CS major or not.
 
 # Freshman Year
@@ -106,9 +108,9 @@ You should definitely look for an internship. Ignore the people that tell you to
 
 If you’re considered a minority in Computer Science, look into first and second year internship programs as they’re meant to help you succeed. Here’s some programs that come to mind:
 
-Google STEP: STEP (Student Training in Engineering Program)
+Google STEP: https://buildyourfuture.withgoogle.com/programs/step/
 
-Microsoft Explore : Job details | Microsoft Careers
+Microsoft Explore : https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program
 
 Amazon Future Engineer: https://www.amazonfutureengineer.com/
 
@@ -128,41 +130,72 @@ It’s time to get some skin in the game. As a junior, companies are more willin
 
 ## Senior Year
 If you were able to get a return offer from an internship, congrats! However, don’t immediately sign the offer. Once you have an offer, you should still try to interview at companies that you’re interested in by the deadline of the time to accept the offer. A good way of doing this is to reach out to a University recruiter for that company and explain the deadline you have. Usually, they’re really helpful and can potentially help skip interviews that you were supposed to do!
+
 In addition, if your friends were able to intern at places you’re interested in, you should definitely ask for a referral or to send your resume to the recruiter. This usually reduces the risk of being ghosted by that company and would increase your chances of getting hired!
+
 Once you finally sign, definitely take the time to relax and enjoy as you’ve basically entered second semester senior mode :D (Just make sure you pass your classes and stay out of trouble)
 
-Classes:
-What Classes should I take?
-Should Already be Required (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
+## Classes:
+
+### What Classes should I take?
+
+#### Should Already be Required (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
+
 Programming in Java/C++/Python (OOP): This is how you’re gonna start coding.
+
 Boolean Algebra/Discrete Math: Teaches you some background knowledge to CS.
+
 Data Structures and Algorithms: Teaches you some ways data is stored and retrieved. Very important as you’re going to be using them a lot.
+
 Low Level Programming /C: Teaches you what coding used to be like in the old days. 
-Must Take (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
- Computer Networks: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
+
+#### Must Take (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
+
+Computer Networks: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
+
 Operating Systems/UNIX: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
+
 Databases/SQL: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
+
 Programming Languages: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
-Good to Have
-Full-stack web dev (pref MERN stack, my school offered both LAMP and MERN)
- Very deep understanding of at least one language. (You’ll be surprised to learn how many students who graduate fail to do this)
- Semester/Year-Long Capstone course (pref working with a company) if your school supports it: an internship where you get credits instead of money.
+
+#### Good to Have
+Full-stack web dev (pref MERN stack, our school offered both LAMP and MERN)
+
+Very deep understanding of at least one language. (You’ll be surprised to learn how many students who graduate fail to do this
+ 
+Semester/Year-Long Capstone course (pref working with a company) if your school supports it: an internship where you get credits instead of money.
+
 Compilers
+
 Human Computer Interaction: If you weren’t able to learn Full-stack web dev
-How do I succeed in these classes?
+
+### How do I succeed in these classes?
+
 /u/rishiss: You’re more than likely coughing up hundreds, if not thousands, to attend university. It makes no sense to not take full advantage of the course and course staff.
+
 Do the readings beforehand – Dr. K explains how studying before class is an OP mechanic (https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on how to study (https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
- Attend EVERY lecture, sit at the front of the class – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
+
+Attend EVERY lecture, sit at the front of the class – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
+
 Take notes on Google Docs – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
+
 Make a study guide, even though the professor does not give you one – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
+
 Go to office hours and become close with 2-3 professors – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
+
 START EARLY ON ASSIGNMENTS – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
+
 In the quarters where I attended half of the lectures, never read the book, and crammed before due dates and exams, I was averaging a B in my classes. In the quarters where I followed the steps above, I never got a grade lower than an A-.
-Dealing with Bad Professors
+
+### Dealing with Bad Professors
+
 During your time in college, you’re most likely going to have at least one bad professor that might make it worse if you have to go to class. If that’s the case, it’s definitely fine to not go to class (as long as it’s not mandatory). However, if you do decide not to go, you definitely need to make sure you learn the material, so that you won’t be behind on the coursework and studying for tests. Another thing you should make sure is that you should be doing something productive on the side. If you don’t go to class and spend the time watching Netflix or playing video games, you’re losing time that you can spend on something that might be fun and can help you in the long run.
-You can take Graduate Courses!?
+
+### You can take Graduate Courses!?
 /u/chaitu65c: A highly underutilized set of courses you can take would be graduate courses. Graduate courses are usually very specialized in certain fields. If you were able to take all the undergraduate courses you wanted and still have spare classes to fill out, I would recommend researching into taking Graduate courses! They’re a good way to build out your specialization and you get to learn really cool stuff! In addition, if you’re looking for classes to reach the required number of CS courses needed, your CS department might allow you to make the course count towards your degree!
-Projects
+
+## Projects
 How do I succeed in projects?
 Reading the Project Requirements: Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
 Learn to Debug: Learning how to debug saves you countless hours trying to read through code you might not understand.
