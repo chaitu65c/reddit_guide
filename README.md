@@ -68,7 +68,7 @@ The way we see it, there’s 3 types of people pursuing CS.
 
 Advice: The majority of people who fall under this usually burn out quickly as they aren’t motivated enough to learn the material and to apply themselves. This usually leads to them cheating and getting kicked out. Before you even start this major, you should definitely understand that this isn’t going to be easy and you do have to put in a lot of effort to succeed. If this isn’t your cup of tea, definitely look into switching into another major you like.
 
-2.Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
+2. Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
 Advice: Really take the time to learn and be open to anything you go through. A good sign that you should look for in continuing CS is when you complete a Data Structures course, usually one of the hardest courses out there. If you don’t understand anything no matter how hard you try, it’s definitely to switch majors/careers as you did it your best shot. But if you do understand and even enjoy it, you’re most likely gonna stick with CS at this point.
 
 3. Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
