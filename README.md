@@ -17,7 +17,7 @@ Our intent is to guide and prepare uni students for a CS career they enjoy, not 
 
 This guide is divided into the following sections:
 
-[Mindset/Balancing Life]( ## Mindset/Balancing Life)
+Mindset/Balancing Life
 
 Is CS Right for Me?
 
@@ -153,40 +153,41 @@ Low Level Programming /C: Teaches you what coding used to be like in the old day
 
 #### Must Take (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
 
-Computer Networks: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
+**Computer Networks**: Highly recommended as it helps you understand Web protocols like REST, HTTP vs HTTPS, TCP vs UDP, etc.
 
-Operating Systems/UNIX: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
+**Operating Systems/UNIX**: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
 
-Databases/SQL: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
+**Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
 
-Programming Languages: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
+**Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
 
 #### Good to Have
-Full-stack web dev (pref MERN stack, our school offered both LAMP and MERN)
 
-Very deep understanding of at least one language. (You’ll be surprised to learn how many students who graduate fail to do this
+**Full-stack web dev** (pref MERN stack, our school offered both LAMP and MERN)
+
+**Very deep understanding of at least one language.** (You’ll be surprised to learn how many students who graduate fail to do this)
  
-Semester/Year-Long Capstone course (pref working with a company) if your school supports it: an internship where you get credits instead of money.
+**Semester/Year-Long Capstone course (pref working with a company) if your school supports it:** an internship where you get credits instead of money.
 
-Compilers
+**Compilers**: Teaches you how programming languages are implemented 'under the hood.'
 
-Human Computer Interaction: If you weren’t able to learn Full-stack web dev
+**Human Computer Interaction**: If you weren’t able to learn Full-stack web dev
 
 ### How do I succeed in these classes?
 
 /u/rishiss: You’re more than likely coughing up hundreds, if not thousands, to attend university. It makes no sense to not take full advantage of the course and course staff.
 
-Do the readings beforehand – Dr. K explains [how studying before class is an OP mechanic](https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on [how to study](https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
+**Do the readings beforehand** – Dr. K explains [how studying before class is an OP mechanic](https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on [how to study](https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
 
-Attend EVERY lecture, sit at the front of the class – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
+**Attend EVERY lecture, sit at the front of the class** – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
 
-Take notes on Google Docs – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
+**Take notes on Google Docs** – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
 
-Make a study guide, even though the professor does not give you one – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
+**Make a study guide, even though the professor does not give you one** – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
 
-Go to office hours and become close with 2-3 professors – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
+**Go to office hours and become close with 1-2 professors** – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
 
-START EARLY ON ASSIGNMENTS – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
+**START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
 
 In the quarters where I attended half of the lectures, never read the book, and crammed before due dates and exams, I was averaging a B in my classes. In the quarters where I followed the steps above, I never got a grade lower than an A-.
 
@@ -250,77 +251,132 @@ Non-Career Group - While having a group that motivates you for your career is im
 ## Resume
 
 /u/rishiss: Here are the few take-aways on writing a resume that gets through the ATS.
- Make your resume accomplishment driven, not just a list of your responsibilities – This guy puts it best (https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) TL;DR: Your bullets should be in the format -> Accomplished X by doing Y as measured by Z.
-Don’t put school projects that every other CS student in your school has completed. Recruiters are able to figure it out and will look down upon this a lot, as it shows you’re not doing anything outside the classroom to forward your career. Capstone projects are perfectly okay.
-Make it a simple, one-column that recruiters can easily read through. There’s a lot of fancy, custom Adobe Resumes out there that the ATS can’t parse well. There’s no need for pictures, graphics, colors, fonts, etc.
-Exceptions: the company you are applying for is small, you’re going to a career fair and you know your resume will be hand-read, you’re a UI/UX person or a Graphic Designer then you have more creative freedom on the resume.
+
+**Make your resume accomplishment driven, not just a list of your responsibilities** – [This guy puts it best](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) TL;DR: Your bullets should be in the format -> Accomplished X by doing Y as measured by Z.
+
+**Don’t put school projects that every other CS student in your school has completed.** Recruiters are able to figure it out and will look down upon this a lot, as it shows you’re not doing anything outside the classroom to forward your career. Capstone projects are perfectly okay.
+
+**Make it a simple, one-column that recruiters can easily read through.** There’s a lot of fancy, custom Adobe Resumes out there that the ATS can’t parse well. There’s no need for pictures, graphics, colors, fonts, etc.
+
+**Exceptions:** The company you are applying for is small, you’re going to a career fair and you know your resume will be hand-read, you’re a UI/UX person or a Graphic Designer
+
 Keep it simple; the content should be carrying you.
-Have at least 3 minimum (I aim for 4-5) per work experience/project; it makes no sense when you have such amazing experience and only put two bullets.
- If you have a GPA lower than a 3.0, do not bother keeping it on the resume. If you have a 3.5 +, make sure to keep it.
-Make formatting consistent. This should be a no brainer, but I still see folks’ resume with different fonts, spacing, etc. It’s annoying; don’t do it.
-Focus on individual contributions and leadership, not the team. Recruiters are looking for self-starters and leaders that can see a project throughout the lifecycle, not just another code monkey.
+
+**Have at least 3 minimum (I aim for 4-5) per work experience/project**; it makes no sense when you have such amazing experience and only put two bullets.
+
+**If you have a GPA lower than a 3.0, do not bother keeping it on the resume.** If you have a 3.5 +, make sure to keep it.
+ 
+**Make formatting consistent.** This should be a no brainer, but I still see folks’ resume with different fonts, spacing, etc. It’s annoying; don’t do it.
+
+**Focus on individual contributions and leadership, not the team.** Recruiters are looking for self-starters and leaders that can see a project throughout the lifecycle, not just another code monkey.
+
 If something you worked on had impact(reduced company cost by x%, etc), definitely mention it. Recruiters love seeing if your work was able to help someone or a company.
 Expect to be tested on anything you put on your resume. If you don’t think you can answer questions about a skill, tech, or experience on your resume, don’t bother putting it in.
-Make sure to add these items in your resume: Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio)
-Take out any old or irrelevant experience. Nobody cares about that Tic Tac Toe game you made in high school.
-Get your resume reviewed multiple times by experienced people in tech. /r/csMajors and /r/cscareerquestions also has a weekly resume roast thread that you can take advantage of.
-Searching for an Internship
+
+**Make sure to add these items in your resume:** Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio)
+
+**Take out any old or irrelevant experience.** Nobody cares about that Tic Tac Toe game you made in high school.
+
+**Get your resume reviewed multiple times by experienced people in tech.** /r/csMajors and /r/cscareerquestions also has a weekly resume roast thread that you can take advantage of.
+
+## Searching for an Internship
+
 Searching for internships in CS is really different and harder from searching for internships in other professions. CS internship interview processes are often longer and much more technical on what you have learned as a CS major. For example, the process for Big Ns and Unicorns usually begins with an Online Assessment (OA) involving multiple choice and coding questions about Data Structures, Algorithms, and Run Time Complexity. After passing this OA, you may be invited to an onsite “Power-Day,” where interviewees attend 3-4 whiteboard interviews while being grilled on their technical skills and projects (You are often pampered with free travel, food, stipends, etc). 
-How to get the Interview
+
+### How to get the Interview
+
 Besides following resume tips, make sure to apply to as many places as you can. To get our first internships, we recall applying to approximately 250-300 places before we secured our internship plans for that summer. Also, if you do get ghosted, don’t take it personally, usually, university recruiters often spend so much time reviewing a lot of applications. 
 
 Other precautions to take to get noticed are to try attending career fairs if you can, you might be able to get an interview(worst case, free swag!). Other than that, try reaching out to upperclassmen or friends you know that interned and ask for referrals. It’s one of the best ways to get noticed!
-What to expect
+
+### What to expect
+
 As part of the interview process, there’s 4 types of interviews that you should make sure you know.
-Behavioral Interview: These interviews ask you questions about culture fit such as “Why are you a good candidate” and “Tell me about a time when you ...”
-Coding/Technical Interview: These interviews ask you questions similar to what you see on Leetcode and Hackerrank. These interviews are designed to test your Data Structures and Algorithms knowledge.
-System Design: System Design involves the interviewer testing your building to design a service/software and test your knowledge of understanding what things to use for the task and how you will integrate them together. You’re definitely not expected to know this and it’s not likely you’re gonna get asked this. Places that could ask you this are Unicorns, Trading Companies and Hedge Funds, and Big Established Companies.
-Concurrency/Low Level Interviews: If the company’s biggest product involves low level principles such as networking principles and kernel stuff, there’s a possibility you can get asked this. Places that come to mind are hardware companies, trading firms, and places where the team you could work on uses these principles.
+
+**Behavioral Interview:** These interviews ask you questions about culture fit such as “Why are you a good candidate” and “Tell me about a time when you ...”
+
+**Coding/Technical Interview:** These interviews ask you questions similar to what you see on Leetcode and Hackerrank. These interviews are designed to test your Data Structures and Algorithms knowledge.
+
+**System Design:** System Design involves the interviewer testing your building to design a service/software and test your knowledge of understanding what things to use for the task and how you will integrate them together. You’re definitely not expected to know this and it’s not likely you’re gonna get asked this. Places that could ask you this are Unicorns, Trading Companies and Hedge Funds, and Big Established Companies.
+
+**Concurrency/Low Level Interviews:** If the company’s biggest product involves low level principles such as networking principles and kernel stuff, there’s a possibility you can get asked this. Places that come to mind are hardware companies, trading firms, and places where the team you could work on uses these principles.
 Some companies may adopt only one of these interviews and some may adopt all. We highly recommend doing some research on Glassdoor and Reddit to gain insight on the interview and possibly know what questions will be asked beforehand. 
-How to Ace the Interview
+
+### How to Ace the Interview
+
 Once you finish the OA(Online Assessment), a recruiter might reach out to officially start the process. While doing this, it’s highly recommended that you look up the interview experiences that other students have faced so that you can potentially filter out companies with red flags. Common sources to search up on this would be Reddit (r/csMajors and r/cscareerquestions), Jumpstart (Relatively new portal for students), Glassdoor and maybe Blind (Aside from the toxic TC or GTFO culture, they do give good advice on interviews). With that said, here’s some advice we have when you approach each kind of interview we’ve seen.
-Advice on Behavioral Interviews
+
+#### Advice on Behavioral Interviews
 Use the STAR method when describing your experiences (https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629). Being quantifiable with the impact of your actions will impress the interviewer. 
-Advice on Technical Interviews
-Begin by reviewing your notes from the Data Structures and Algorithms class. Do not proceed further until you know how to implement these DS and As from scratch with the language of your choice(If you do know python, it’s recommended as there’s a lot of builtin features!). After doing so,  we highly recommend a book like CTCI and EPI to gain a review on programming language details and your DS and As. Then, visit sites like LeetCode to practice real questions from major companies. A Facebook Engineer completed 600 LeetCode problems and compiled the most important ones into a list here (https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). During the interview, make sure to talk out loud about possible approaches and tradeoffs before whiteboarding. It is perfectly acceptable (often recommended) to ask the interviewer to ask questions about the problem and get clarification. Once you have an idea in mind and have talked about it with your interviewer, begin whiteboarding. While you talk about the final idea you want to use, write out pseudo code and comments about all the steps you need to implement in order to finish coding your solution. After that, start coding. Make sure to have proper function headers, syntax, spacing, classes/structs, imports, etc. After coding your solution, give a brief explanation and attempt to make it run with less space and in less time (if your solution is not as efficient as you think it can be). 
-Advice on System Design
+
+#### Advice on Technical Interviews
+Begin by reviewing your notes from the Data Structures and Algorithms class. Do not proceed further until you know how to implement these DS and As from scratch with the language of your choice(If you do know python, it’s recommended as there’s a lot of builtin features!). After doing so,  we highly recommend a book like CTCI and EPI to gain a review on programming language details and your DS and As. Then, visit sites like LeetCode to practice real questions from major companies. A Facebook Engineer completed 600 LeetCode problems and compiled the most important ones into a [list here](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). During the interview, make sure to talk out loud about possible approaches and tradeoffs before whiteboarding. It is perfectly acceptable (often recommended) to ask the interviewer to ask questions about the problem and get clarification. Once you have an idea in mind and have talked about it with your interviewer, begin whiteboarding. While you talk about the final idea you want to use, write out pseudo code and comments about all the steps you need to implement in order to finish coding your solution. After that, start coding. Make sure to have proper function headers, syntax, spacing, classes/structs, imports, etc. After coding your solution, give a brief explanation and attempt to make it run with less space and in less time (if your solution is not as efficient as you think it can be). 
+
+#### Advice on System Design
 These are somewhat hard to approach if you don’t have experience ever doing it. If you do have experience designing and building services in your spare time and as part of your work experience, definitely rely on your experience. An important thing is to definitely ask clarifying questions. There might be hidden requirements you didn’t think about that could drastically change the way you approach the solution.
-Advice on Concurrency/Low level
+
+#### Advice on Concurrency/Low level
 Understand basic principles such as Processes vs Threads (A lot of people don’t know the difference!)TCP vs UDP and how to make an application thread safe(Make sure stuff doesn’t go haywire when multiple threads access and overwrite something). Other than that, it’s recommended that you familiarize yourself with basic OS concepts such as Deadlocks, locks that you can utilize to make an application thread safe, etc.
-Searching for a Full-Time Job:
-The process for finding a Full-Time Job is usually very similar to finding an Internship. There’s three main differences between either one
-The questions that are asked in interviews are usually harder. Ex: Google usually asks Leetcode Mediums to Hards + the special Leetcode Hard question that Google asks it’s applicants (they create a new one every year).
-There’s more to the process aka more rounds. For example, Microsoft makes interns do 2 rounds while New Grads do 4 rounds during the onsite part of the process.
-Compensation, Interns usually get Base + housing while New grads get base, Sign-on bonus and optionally, the company can provide stocks(Some companies don’t) and benefits.
+
+## Searching for a Full-Time Job:
+
+The process for finding a Full-Time Job is usually very similar to finding an Internship. There’s three main differences are: 
+
+1. The questions that are asked in interviews are usually harder. Ex: Google usually asks Leetcode Mediums to Hards + the special Leetcode Hard question that Google asks it’s applicants (they create a new one every year).
+
+2. There’s more to the process aka more rounds. For example, Microsoft makes interns do 2 rounds while New Grads do 4 rounds during the onsite part of the process.
+
+3. Compensation, Interns usually get an hourly rate and, possibly, a housing stipedd. New grads, however, are given a yearly salary and, possibly, a sign-on bonus, stocks, and benefits e.g. health insurance, vacation days, etc.
 
 The process for finding a Full-time Job won’t really change as much as finding an internship, but keep in mind that the bar is higher. This is probably the biggest reason why you should look into interning early; by getting an offer at the place you like, you don’t necessarily need to go through the daunting process of finding a full-time role unless you want to negotiate for a higher compensation package.
 
-Negotiation
+### Negotiation
+
 Negotiation is a really powerful tool that you can use in the interview process, even as an intern. There’s a lot of guides to negotiation and we recommend Nick Singh’s guide (Look at his linkedin and newsletters) for more.
-Final Thoughts
+
+## Final Thoughts
+
 University is a probably the most important time of your life and a foundational block of your CS Career. Like any foundation, it must be sturdy and takes a tremendous amount and energy of time to develop. Take advantage of all the resources (like this one) you can get your hands on. Definitely learn from the mistakes people have made and make sure you don’t repeat the same mistakes.
 
 ‘Stay hungry. Stay foolish’ - Steve Jobs
-Jargon that you might want to be familiar with
-ATS - Applicant Tracking System, as larger companies don’t have the time and resources to look at resumes individually, a resume reader known as the ATS parses applicant’s resumes and uses algorithms to see if you’re a good candidate to move forward in the interviewing pipeline. 
-Big N – A collective placeholder for the top CS companies in the industry. (Google, Facebook, Microsoft, Amazon, Apple, etc.)
-Big O Notation - A notation used for asymptomatic analysis. Commonly used to describe how much memory/time an algorithm or data structure will take. (https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
-Decacorns - Unicorns with a valuation of more than $10B
-F100 – Fortune 100
-FAANG – Facebook, Apple, Amazon, Netflix, Google.
-IPO - Initial Public Offering. You can buy shares of that company on the stock market.
-LeetCode - A website to practice technical interviews. Often, people generalize technical interview preparation with ‘LeetCode’
-MVP - Minimum Viable Product, the initial prototype of your project which only includes basic functionalities
-OA - Online Assessment, the preliminary coding exam companies give to interviewees for filtering purposes. Usually completed on sites like HackerRank and CodeSignal
-RSUs - Restricted Stock Options. A way for companies to give you shares of the company when you work.
-RTFM – Read the Fucking Manual
-Series Funding - Way for companies to raise funding in waves (Pre-seed, Seed, Series A, B, C, etc until IPO)
-STAR - Situation, Task, Action, Result, a common format of responses to behavioral questions
-Startups - Companies that are private (i.e no stock market ticker symbol). They usually raise money from VCs.
-TC – Total Compensation, the amount of money people make including salary + bonuses + stocks
-VC - Venture Capital. They invest money into startups that they think will succeed in return for a stake in the company.
-Unicorns - Startups with a valuation of more than $1B
-YMMV - Your Mileage May Vary
+
+## Jargon
+
+**ATS** - Applicant Tracking System, as larger companies don’t have the time and resources to look at resumes individually, a resume reader known as the ATS parses applicant’s resumes and uses algorithms to see if you’re a good candidate to move forward in the interviewing pipeline. 
+
+**Big N** – A collective placeholder for the top CS companies in the industry. (Google, Facebook, Microsoft, Amazon, Apple, etc.)
+
+**Big O Notation** - A notation used for asymptomatic analysis. Commonly used to describe how much memory/time an algorithm or data structure will take. (https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+
+**F100** – Fortune 100
+
+**FAANG** – Facebook, Apple, Amazon, Netflix, Google.
+
+**IPO** - Initial Public Offering. You can buy shares of that company on the stock market.
+
+**LeetCode** - A website to practice technical interviews. Often, people generalize technical interview preparation with ‘LeetCode’
+
+**MVP** - Minimum Viable Product, the initial prototype of your project which only includes basic functionalities
+
+**OA** - Online Assessment, the preliminary coding exam companies give to interviewees for filtering purposes. Usually completed on sites like HackerRank and CodeSignal
+
+**RSUs** - Restricted Stock Options. A way for companies to give you shares of the company when you work.
+
+**RTFM** – Read the Fucking Manual
+
+**Series Funding** - Way for companies to raise funding in waves (Pre-seed, Seed, Series A, B, C, etc until IPO)
+
+**STAR** - Situation, Task, Action, Result, a common format of responses to behavioral questions
+
+**Startups** - Companies that are private (i.e no stock market ticker symbol). They usually raise money from VCs.
+
+**TC** – Total Compensation, the amount of money people make including salary + bonuses + stocks
+
+**VC** - Venture Capital. They invest money into startups that they think will succeed in return for a stake in the company.
+
+**Unicorns** - Startups with a valuation of more than $1B
+
+**YMMV** - Your Mileage May Vary
 
 
 
