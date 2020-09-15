@@ -139,7 +139,8 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 ## Classes:
 
-### What Classes should I take?
+
+*### What Classes should I take?*
 
 #### Should Already be Required (if these are not already included in your school’s curriculum, I’d think twice about attending that school):
 
