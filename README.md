@@ -9,16 +9,18 @@ With our final school year beginning, we were reflecting on how lost and confuse
 Disclaimer: “But /u/rishiss/ and /u/chaitu65c, you don’t work at a Big N, go to a target CS school, why should I take your advice?” You’re absolutely right; we are, by no means, ‘up there’ like some other folks on this sub. And, you don’t have to take our advice! Simply close this tab and do whatever else you want 😊.
 Our intent is to guide and prepare uni students for a CS career they enjoy, not work at Big N or get the highest TC. Life is much more than a dick-measuring contest, and the earlier you learn that the better.
 
-We have also created a guide with our own personal advice and stories. https://docs.google.com/document/d/1QpbntzGn3DG64nYSE2Av9AlszZB2hqXWVdIqCSCj1qg/edit?usp=sharing
-Please, take this advice with a grain of salt. we’re not Tony Robinson or Tim Apple, we’re just two random reddit users.
+[We have also created a guide with our own personal advice and stories](https://docs.google.com/document/d/1QpbntzGn3DG64nYSE2Av9AlszZB2hqXWVdIqCSCj1qg/edit?usp=sharing)
+
+#### Please, take this advice with a grain of salt. we’re not Tony Robinson or Tim Apple, we’re just two random reddit users.
 
 ## Table of Contents:
 
 This guide is divided into the following sections:
 
-Mindset/Balancing Life
+[Mindset/Balancing Life]( ## Mindset/Balancing Life)
 
 Is CS Right for Me?
+
 Classes
 
 Projects
@@ -76,7 +78,7 @@ Advice: Really take the time to learn and be open to anything you go through. A 
 
 Advice: Learn to broaden your scope and learn new areas of CS! Who knows, you might find another new field that you really want to work in. Other than that, definitely make new friends regardless of whether they’re a CS major or not.
 
-# Freshman Year
+## Freshman Year
 
 Don’t take more than 3-4 classes in your first quarter/semester. Attend your classes, of course, but make sure to keep ample amount of time to go to professional/social events and self-learning.
 
@@ -108,15 +110,15 @@ You should definitely look for an internship. Ignore the people that tell you to
 
 If you’re considered a minority in Computer Science, look into first and second year internship programs as they’re meant to help you succeed. Here’s some programs that come to mind:
 
-Google STEP: https://buildyourfuture.withgoogle.com/programs/step/
+[Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
 
-Microsoft Explore : https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program
+[Microsoft Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program)
 
-Amazon Future Engineer: https://www.amazonfutureengineer.com/
+[Amazon Future Engineer](https://www.amazonfutureengineer.com/)
 
-Uber STARInternhip: https://www.uber.com/global/en/careers/list/62885/
+[Uber STARInternhip](https://www.uber.com/global/en/careers/list/62885/)
 
-Facebook University: https://www.facebook.com/careers/students-and-grads/students
+[Facebook University](https://www.facebook.com/careers/students-and-grads/students)
 
 Another way to get internships is to research into smaller companies in your area. If the company is very small (<100 employees), consider reaching out to the CEO on LinkedIn. They might be able to help you! Also, take advantage of university recruiting websites like Handshake to see companies that directly hire from your school. 
 As for understanding what you need to know to get an internship, look at the ‘Searching for an Internship’ section.
@@ -174,7 +176,7 @@ Human Computer Interaction: If you weren’t able to learn Full-stack web dev
 
 /u/rishiss: You’re more than likely coughing up hundreds, if not thousands, to attend university. It makes no sense to not take full advantage of the course and course staff.
 
-Do the readings beforehand – Dr. K explains how studying before class is an OP mechanic (https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on how to study (https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
+Do the readings beforehand – Dr. K explains [how studying before class is an OP mechanic](https://www.youtube.com/watch?v=mlk0NAA3I48), also highly recommend this video on [how to study](https://www.youtube.com/watch?v=Lw4dMehQkgs) by him as well
 
 Attend EVERY lecture, sit at the front of the class – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
 
@@ -196,38 +198,58 @@ During your time in college, you’re most likely going to have at least one bad
 /u/chaitu65c: A highly underutilized set of courses you can take would be graduate courses. Graduate courses are usually very specialized in certain fields. If you were able to take all the undergraduate courses you wanted and still have spare classes to fill out, I would recommend researching into taking Graduate courses! They’re a good way to build out your specialization and you get to learn really cool stuff! In addition, if you’re looking for classes to reach the required number of CS courses needed, your CS department might allow you to make the course count towards your degree!
 
 ## Projects
-How do I succeed in projects?
+
+### How do I succeed in projects?
+
 Reading the Project Requirements: Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
+
 Learn to Debug: Learning how to debug saves you countless hours trying to read through code you might not understand.
+
 Learn to write Clean Code (Example article: https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c): With this and being able to debug, you’re going to be able to write very efficient code and to debug issues easily, thus not making you only successful in lab assignments, but also making you a better programmer.
+
 Plan your work out: This allows you to simplify the logic you are writing and this usually leads to clean code.
+
 Ask for help: If you ever get stuck on something and no matter how much you Google and you can’t figure it out, ask for help. It’s definitely fine to ask for help and is HIGHLY recommended you do so. Take advantage of the lab tutors and TA’s either through in person or Piazza/Canvas; they’re there to help you.
+
 (Optional) Drawing Pictures: If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
-Projects and your CS Career
+
+### Projects and your CS Career
+
 /u/rishiss: Projects are your saving grace, especially if you are lacking work experience. They show technical aptitude, willingness to take initiative, and leadership. I’ve seen people with only projects on their resume get positions at the Big N. Projects are good ways to expand your knowledge of CS as the possibilities are endless!
 It is best to have a variety of projects dealing with a variety of technologies. As such, you can open yourself up to more positions and have more talking points during the interview. I tend to edit the ‘Project’ Section of my resume with relevant projects and technologies. For instance, if I made a full stack web application and applied to a DevOps organization, I would highlight my AWS, CI/CD, and Terraform experiences more than my React/Node js work. 
- If you’re blessed enough to have a lot of experience, just list the experience on your resume without projects.
-Open Source Contributions
+
+
+### Open Source Contributions
+
 If you’ve ever noticed popular github repositories such as torvalds/linux, these are repositories where people from all over the world can report issues with it and someone can fix it. If you are able to make a contribution to a huge open source repository, it looks really good on your resume.
-Hackathons
-What are Hackathons?
+
+## Hackathons
+
+### What are Hackathons?
 
 Hackathons are large scale coding events, where students from around the area come together and collaborate - usually in teams of 4 (but you can go solo or with a partner!) - to build some software. Companies like Amazon, Northrop Grumman, Google, and Twilio sponsor awards related to best use of their technology. After 24 - 48 hours of intensive coding(they’ll definitely have the red bull/yerba mate for it), participants submit their projects, whether it be an Android video game, Chrome Extension, productivity web app, etc. Submissions are shared with the companies and other hackathon organizers, where they select the best projects and award teams with swag like keyboards, gift cards, Amazon Echos, and even summer internships at their company. 
 
 Participating in hackathons are one of the best ways to hone your coding skills, network with companies and other students, and get free comfy T-shirts. It is also one of the best ways to gain industry knowledge, as representatives from these companies and hackathon organizers create numerous workshops and answer any questions you may have. Winning awards at these hackathons are also great resume boosters and talking points during interviews. 
 
-The biggest hackathon organizer is Major League Hacking (https://mlh.io/). Visit their website, and you can see all the hackathons (remote or local) they are partnered with. Make to be on the lookout for application release dates from the hackathons and apply early.
+The biggest hackathon organizer is [Major League Hacking](https://mlh.io/). Visit their website, and you can see all the hackathons (remote or local) they are partnered with. Make to be on the lookout for application release dates from the hackathons and apply early.
+
+### What Should I Do At Hacakathons?
 
 Take advantage of the resources available at hackathons. You’re attending a mini CS conference and should be, besides coding, networking with professionals, learning about the different companies, attending workshops, asking technical/non-technical questions to mentors, and getting as much free shit as you can get. Besides T-Shirts, companies give out vouchers to their services(such as free AWS/Azure/GCP credit!), applications to their internship and full-time positions, pillows, USB drives, socks, pencils/pens, notebooks, water bottles, sweaters, stickers, and even backpacks. 
 
 If you’re looking to get an award, judges at hackathons care a lot about the pitch and the idea rather than the actual execution of the idea. Having an idea beforehand is also helpful, so you can spend your time focusing on the MVP. 
 
-Friends/Networking
+## Friends/Networking
+
 /u/chaitu65c: I think it’s definitely useful if you have two different friend groups: One dedicated to career and Non-Career Group.
+
 Career Group - When making a friend group dedicated to career, try to be the dumbest person in the group, you’re definitely going to learn a lot from them as you soak up knowledge! Best ways of meeting friends who are career-driven can be through major specific orientation (actually how I met /u/rishiss), courses, major related clubs, etc.
+
 Non-Career Group - While having a group that motivates you for your career is important, it’s also important to have another friend group that can help you relax and to enjoy your time! A really good way to find these friend groups can be anywhere from your hall to General Education courses, social clubs like Circle K, fraternities and sororities(if that’s your cup of tea) and others! 
-Resume
-/u/rishiss: I could write a book on this, but here are the few take-aways on writing a resume that gets through the ATS.
+
+## Resume
+
+/u/rishiss: Here are the few take-aways on writing a resume that gets through the ATS.
  Make your resume accomplishment driven, not just a list of your responsibilities – This guy puts it best (https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) TL;DR: Your bullets should be in the format -> Accomplished X by doing Y as measured by Z.
 Don’t put school projects that every other CS student in your school has completed. Recruiters are able to figure it out and will look down upon this a lot, as it shows you’re not doing anything outside the classroom to forward your career. Capstone projects are perfectly okay.
 Make it a simple, one-column that recruiters can easily read through. There’s a lot of fancy, custom Adobe Resumes out there that the ATS can’t parse well. There’s no need for pictures, graphics, colors, fonts, etc.
