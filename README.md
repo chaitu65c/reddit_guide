@@ -144,10 +144,13 @@ It’s time to get some skin in the game. As a junior, companies are more willin
 
 Continue to attend hackathons, remain active in clubs/organizations, and grow your portfolio.
 
-Classes will be much harder; expect the time for completeing projects to double and the content covered to be much more difficult. We reccomend taking no more than 2-3 upperdivision CS courses and balancing your load with 1-2 GE classes. You should not be taking more than 16 units (assuming 4 units per course).   
+Classes will be much harder; expect the time for completeing projects to double and the content covered to be much more difficult. We reccomend taking no more than 2-3 upperdivision CS courses and balancing your load with 1-2 GE classes. You should not be taking more than 16 units (assuming 4 units per course).
+
+Start to get an idea of what field in CS you would like to pursue. Research what it takes to be successful in that field. You can do so by looking up job postings with that title on LinkedIn and looking at the requested skillset or take a look at [Roadmap.sh](https://roadmap.sh/). If you want to learn more about a related skillset and your school doesn't offer a course, consider picking up a class on udemy.com. 
 
 ## Senior Year
 
+Focus heavily on your senior capstone, project classes, etc. as they're the last thing you can put on your resume before applying for full time. By now, you should have at least 3 polished, working projects on your GitHub that you can easily talk about with your recruiter. Preferably, they're aligned with the CS field you wish to enter. 
 
 If you were able to get a return offer from an internship, congrats! However, don’t immediately sign the offer. Once you have an offer, you should still try to interview at companies that you’re interested in by the deadline of the time to accept the offer. A good way of doing this is to reach out to a University recruiter for that company and explain the deadline you have. Usually, they’re really helpful and can potentially help skip interviews that you were supposed to do!
 
@@ -239,9 +242,15 @@ During your time in college, you’re most likely going to have at least one bad
 ### Personal Projects and your CS Career
 
 /u/rishiss: Projects are your saving grace, especially if you are lacking work experience. They show technical aptitude, willingness to take initiative, and leadership. I’ve seen people with only projects on their resume get positions at the Big N. Projects are good ways to expand your knowledge of CS as the possibilities are endless!
-It is best to have a variety of projects dealing with a variety of technologies. As such, you can open yourself up to more positions and have more talking points during the interview. I tend to edit the ‘Project’ Section of my resume with relevant projects and technologies. For instance, if I made a full stack web application and applied to a DevOps organization, I would highlight my AWS, CI/CD, and Terraform experiences more than my React/Node js work. 
+It is best to have a variety of projects dealing with a variety of technologies. As such, you can open yourself up to more positions and have more talking points during the interview. 
 
-It is reccomend the project is about something that movitvates you and are passionate about e.g. video games, movies, books, sports, etc., as it is very easy to give up half way due to stress or lack of motivation/interest. Spending 15-30 minutes a day is all you need to make a successful personal project. 
+I tend to edit the ‘Project’ Section of my resume with relevant projects and technologies. For instance, if I made a full stack web application and applied to a DevOps organization, I would highlight my AWS, CI/CD, and Terraform experiences more than my React/Node js work. 
+
+It is reccomend the project is about something that movitvates you and are passionate about e.g. video games, movies, books, sports, etc., as it is very easy to give up half way due to stress or lack of motivation/interest.
+
+Like anything else in Computer Science, projects require you to break it down into smaller pieces. Start with the end in mind and draw out the intended architecture/functionalites. Start with what you know and research on the parts you don't know after that. You will be using these skills often in industry for any project/feature planning.
+
+Spending 15-30 minutes a day is all you need to make a successful personal project. Don't make excuses and get coding!
 
 ### Open Source Contributions
 
@@ -401,5 +410,4 @@ University is a probably the most important time of your life and a foundational
 
 **YMMV** - Your Mileage May Vary
 
-
-
+**If you have any questions, comments, or concerns about what we wrote in this guide, let us know in the commnets below!**
