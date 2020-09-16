@@ -71,11 +71,11 @@ The way we see it, there’s 3 types of people pursuing CS.
 
 Some folks are really passionate about technology, but don't want to pursue an entire Computer Science major or see themselves as Software Engineeers. That's completely ok! Try looking into related majors or minors. We know many students who switched from CS to majors like Informatics, Business Information Management, and Econonomics and are thriving in tech-related roles like Data Analytics, Product Management,  UI/UX Design, and Technical Recruiting. CS is not (and should not be) for everyone, and there is no shame in having the wisdom quit and move on. 
 
-2. Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
+2. Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like me, /u/rishiss) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
 
 **Advice**: For students, really take the time to learn and be open to anything you go through. Try sticking it out until you've taken a Data Structures course, one of the harder, more important courses out there. If you're not understanding the material or just aren't having fun with it, it’s definitely ok to switch majors/careers. Otherwise, CS just might be the career for you! Give it your best shot!
 
-Admittedly, it's hard to provide stronger insight to overcoming Imposter Syndrome, as I (/u/rishiss) am afflicted by it as well. For me, my IS derives from constantly comparing myself to others and confusing inexperience with incompetency. As such, I continue to work and focus on myself and take baby steps towards smaller goals I set out for myself. Knowing that I've put the effort to improve myself by just 1% everyday has made me a lot more confident.  
+Admittedly, it's hard to provide stronger insight to overcoming Imposter Syndrome, as I am afflicted by it as well. For me, my IS derives from constantly comparing myself to others and confusing inexperience with incompetency. As such, I continue to work and focus on myself and take baby steps towards smaller goals I set out for myself. Knowing that I've put the effort to improve myself by just 1% everyday has made me a lot more confident.  
 
 3. Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
 
