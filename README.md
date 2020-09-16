@@ -222,7 +222,7 @@ During your time in college, you’re most likely going to have at least one bad
 
 ## Projects
 
-### How do I succeed in projects?
+### How do I succeed in class projects?
 
 - **Reading the Project Requirements:** Before starting to code, read the requirements and understand what you need to do in order to finish. Too many students ask for help that can easily be found in the requirements which wastes the student’s time. 
 
@@ -236,12 +236,12 @@ During your time in college, you’re most likely going to have at least one bad
 
 - **Draw Pictures:** If your project involves multiple things (AWS, Databases, Servers, etc), it’s definitely a good idea to draw a picture that shows you each thing interacts with and how it comes together. This is important especially when you enter the industry and build software for companies.
 
-### Projects and your CS Career
+### Personal Projects and your CS Career
 
 /u/rishiss: Projects are your saving grace, especially if you are lacking work experience. They show technical aptitude, willingness to take initiative, and leadership. I’ve seen people with only projects on their resume get positions at the Big N. Projects are good ways to expand your knowledge of CS as the possibilities are endless!
 It is best to have a variety of projects dealing with a variety of technologies. As such, you can open yourself up to more positions and have more talking points during the interview. I tend to edit the ‘Project’ Section of my resume with relevant projects and technologies. For instance, if I made a full stack web application and applied to a DevOps organization, I would highlight my AWS, CI/CD, and Terraform experiences more than my React/Node js work. 
 
-If you are just starting to make personal projects, just know that 
+It is reccomend the project is about something that movitvates you and are passionate about e.g. video games, movies, books, sports, etc., as it is very easy to give up half way due to stress or lack of motivation/interest. Spending 15-30 minutes a day is all you need to make a successful personal project. 
 
 ### Open Source Contributions
 
