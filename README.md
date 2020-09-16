@@ -51,13 +51,13 @@ This guide is divided into the following sections:
 
 #### *Success is an attitude.*
 
-The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a Growth Mindset (https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
+The most successful people we’ve seen in CS are those invested in what they love to do. They’re willing to take on challenges optimistically. They don’t compare themselves to others, but instead gain inspiration from them. And, most importantly, they embrace failure and learn from their mistakes. These folks have something called a [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 
 But, what does this have to do with CS? A lot. In your college career, you’re going to be bashing your head trying to debug your code, you’re going to get a project and have no idea where the fuck to even start, you’re going to compare yourself to that Google intern, hell, you may even think of changing majors and quitting CS altogether. If you want to be successful in CS, you’re going to have to be optimistic in finding a solution, you’re going to have to spend 4 hours RTFMing and browsing Stack Overflow, you’re going to ask that Google intern for advice, and you’re going to have to gain confidence with what you’re doing.
 
 #### *We all start somewhere, and we all fail. Success is the attitude to get back up and push through, no matter where we came from.*
 
-Moving away from the psychology/motivational mumbo jumbo, the other thing I’ve noticed about successful CS kids at school is their great balance with their social, work, and school life. They definitely put in the time for homework, exams, etc, but also make sure to work out, occasionally drink with friends, and watch anime. They’re responsible adults; they don’t procrastinate on assignments, play League 24/7, and get high everyday. IMO, building a strong work ethic and leaving time to play will take you far.
+Moving away from the psychology/motivational mumbo jumbo, the other thing I’ve noticed about successful CS kids at my school are their great balance with their social, work, and school life. They definitely put in the time for homework, exams, etc, but also make sure to work out, occasionally drink with friends, and watch anime. They’re responsible adults; they don’t procrastinate on assignments, play League 24/7, and get high everyday. Building a strong work ethic and leaving time to play take them far.
 
 ## Is CS Right For Me?
 
@@ -67,21 +67,27 @@ The way we see it, there’s 3 types of people pursuing CS.
 
 1. Those who know CS isn’t for them – They’re in it for the money, to appease their parents, for a minor/requirement, some external factor. They hated programming while taking the introductory CS course and just try to get done with their class/degree ASAP.
 
-**Advice**: The majority of people who fall under this usually burn out quickly as they aren’t motivated enough to learn the material and to apply themselves. This usually leads to them  cheating and getting kicked out. Before you even start this major, you should definitely understand that this isn’t going to be easy and you do have to put in a lot of effort to succeed. If this isn’t your cup of tea, definitely look into switching into another major you like.
+**Advice**: The majority of people who fall under this usually burn out quickly, as they aren’t motivated enough to learn the material and to apply themselves. This usually leads to them  cheating and getting kicked out of their major, minor, or univeristy altogether. Even if you manage to earn a degree, we've seen a large number of these folks endure a 'pre-mature' mid-life crisis or simply get fired from their jobs. Before you even start this major, you should definitely understand that this isn’t going to be easy, and you do have to put in a lot of effort to succeed. If this isn’t your cup of tea, definitely look into switching into another major you like.
+
+Some folks are really passionate about technology, but don't want to pursue an entire Computer Science major or see themselves as Software Engineeers. That's completely ok! Try looking into related majors or minors. We know many students who switched from CS to majors like Informatics, Business Information Management, and Econonomics and are thriving in tech-related roles like Data Analytics, Product Management,  UI/UX Design, and Technical Recruiting. CS is not (and should not be) for everyone, and there is no shame in having the wisdom quit and move on. 
 
 2. Those who don’t know if CS is for them – Where most of the CS community is IMO. These folks (like myself) are riddled with something called Imposter Syndrome: “the constant feeling of not being good enough or knowing enough to do your job well.”
 
-**Advice**: Really take the time to learn and be open to anything you go through. A good sign that you should look for in continuing CS is when you complete a Data Structures course, usually one of the hardest courses out there. If you don’t understand anything no matter how hard you try, it’s definitely to switch majors/careers as you did it your best shot. But if you do understand and even enjoy it, you’re most likely gonna stick with CS at this point.
+**Advice**: For students, really take the time to learn and be open to anything you go through. Try sticking it out until you've taken a Data Structures course, one of the harder, more important courses out there. If you're not understanding the material or just aren't having fun with it, it’s definitely ok to switch majors/careers. Otherwise, CS just might be the career for you! Give it your best shot!
+
+Admittedly, it's hard to provide stronger insight to overcoming Imposter Syndrome, as I (/u/rishiss) am afflicted by it as well. For me, my IS derives from constantly comparing myself to others and confusing inexperience with incompetency. As such, I continue to work and focus on myself and take baby steps towards smaller goals I set out for myself. Knowing that I've put the effort to improve myself by just 1% everyday has made me a lot more confident.  
 
 3. Those who know for a fact CS is for them – The diamonds in the rough. Learning and practicing CS material gives them a euphoric high.
 
-**Advice**: Learn to broaden your scope and learn new areas of CS! Who knows, you might find another new field that you really want to work in. Other than that, definitely make new friends regardless of whether they’re a CS major or not.
+**Advice**: Broaden your scope and learn new areas of CS! Who knows, you might find another new field that you really want to work in. Other than that, definitely make new friends regardless of whether they’re a CS major or not. Even try purusuing other hobbies like weightlifting, reading, dancing, or even public speaking. Don't limit yourself!
 
 ## Freshman Year
 
-Don’t take more than 3-4 classes in your first quarter/semester. Attend your classes, of course, but make sure to keep ample amount of time to go to professional/social events and self-learning.
+Don’t take more than 3-4 classes in your first quarter/semester. Attend your classes, of course, but make sure to keep ample amount of time to go to professional/social events and self-learning. Leave your gaming tower or console at home. You have the priviledge of pursuing higher education, making valuable conncetion, and setting up your CS career in the trajectory you want. This year is the best year to take advantage of all that univeristy has to offer; make the most of it. 
 
-The biggest issue we see with freshmen (even upperclassmen) is their ignorance on all the avenues available in the CS Industry. So we’ve tried to narrow it down (not exhaustive).
+One of the best ways to get involved in your school’s/region’s CS community is by joining clubs like ACM and WICS and participating in hackathons (see ‘Hackathon’ section below). Try pursuinga internships and positions in these organizations and events as well! 
+
+One, major issue we see with freshmen (even upperclassmen) is their ignorance on all the avenues available in the CS Industry. So we’ve tried to narrow it down (not exhaustive).
 
 1. Cyber Security Engineer
 2. Front-End Web Developer
@@ -101,9 +107,9 @@ The biggest issue we see with freshmen (even upperclassmen) is their ignorance o
 16. Video Game Developer
 17. Solutions Architect/Sales Engineer/Technical Account Manager
 
-As a freshman, definitely take the time and see if you can picture yourself doing all fields. You should open yourself for all facets of CS and not just the “hot field” like Data Science and Machine Learning. Choosing a field because it’s “exciting” will usually lead to bad results as usually, other people are thinking just like you and will lead to oversaturation.
+As a freshman, definitely take the time and see if you can picture yourself doing any of the listed fields. You should open yourself to all facets of CS and not just the “hot field” like Data Science and Machine Learning. Choosing a field because it’s “exciting” will usually lead to bad results as usually, other people are thinking just like you and will lead to oversaturation.
 
-Our recommendation is to select the top 5 fields that have piqued your interest and experiment with the field. For example, if you were interested in Mobile App Development, try learning how to build an app from the ground up. This lets you understand what skills you would need for this field and can serve as a forecast as to what your career would look like.
+Our recommendation is to select the top 5 fields that have piqued your interest and experiment with the field. For example, if you are interested in Mobile App Development, try learning how to build an Android app from the ground up. A simple weather app or alarm clock is completely suitable for a first project/prototype. This lets you understand what skills you would need for this field and can serve as a forecast as to what your career would look like.
 
 You should definitely look for an internship. Ignore the people that tell you to wait until you’re a junior, as it’s going to be very hard to get an internship if you don’t have any experience. Common places that most students don’t realize are available are usually IT departments at your school and even research with professors. Researching is highly recommended as you can definitely learn more about a field you can be interested in and if you’re interested in graduate school, that’s going to be a letter of recommendation that you can ask for. 
 
@@ -124,12 +130,25 @@ As for understanding what you need to know to get an internship, look at the ‘
 
 ## Sophomore Year
 
-Now that you have basic programming knowledge, we highly recommend you start getting involved in your school’s/region’s CS community like ACM, WICS, hackathons (see ‘Hackathon’ section below) and more. If you weren’t able to find an internship/research opportunity as a freshman, this becomes especially important as projects and community involvement are a great way to make you stand out on your resume and to recruiters. And as you brush up on your skills, apply again and try your luck out. Nobody expects you to make a full-stack MERN project hosted and scaled on AWS. Focus instead on clean code, learning a framework or two on a language you like, and creating a small, robust feature. 
+Now that you have basic programming knowledge, create your own website or Github account and start contributing to them with small personal projects. Nobody expects you to make a full-stack MERN project hosted and scaled on AWS at this stage. Focus instead on clean code, learning a framework or two on a language you like, and creating a small, robust feature. Grow from there! 
+
+If you weren’t able to find an internship/research opportunity as a freshman, community invovlement, projects, and hackathons become especially important, as they are a great way to make you stand out on your resume and to recruiters when you reapply. As you brush up on your skills, apply again, and try your luck out.
+
+### Data Structures and Algorithms
+
+In addition, you are most likely to take a Data Structures and Algorithms course this year. Make sure you are focusing on this class and writing good notes; you will need this knowledge when interviewing for internships and full-time jobs in the near future. Here is a link to our DS and A course (in C++) for [refernece](https://www.ics.uci.edu/~thornton/ics46/Schedule.html)
 
 ## Junior Year
-It’s time to get some skin in the game. As a junior, companies are more willing to hire you for an internship, as they are likely to convert you into a full-time employee after graduating. This transition process is much easier than interviewing, and they'll usually offer you a higher compensation package if they want to convert you to a full-time employee. As you now should have knowledge of Data Structures and Algorithms, we highly recommend looking into coding interview prep sites like LeetCode and HackerRank or purchasing a prep book like Cracking the Coding Interview or Elements of Programming Interview. 
+
+It’s time to get some skin in the game. As a junior, companies are more willing to hire you for an internship, as they are likely to convert you into a full-time employee after graduating. This transition process is much easier than interviewing, and they'll usually offer you a higher compensation package if they want to convert you to a full-time employee. As you now should have knowledge of Data Structures and Algorithms, we highly recommend looking into coding interview prep sites like LeetCode and HackerRank or purchasing a prep book like Cracking the Coding Interview or Elements of Programming Interview (advanced). 
+
+Continue to attend hackathons, remain active in clubs/organizations, and grow your portfolio.
+
+Classes will be much harder; expect the time for completeing projects to double and the content covered to be much more difficult. We reccomend taking no more than 2-3 upperdivision CS courses and balancing your load with 1-2 GE classes. You should not be taking more than 16 units (assuming 4 units per course).   
 
 ## Senior Year
+
+
 If you were able to get a return offer from an internship, congrats! However, don’t immediately sign the offer. Once you have an offer, you should still try to interview at companies that you’re interested in by the deadline of the time to accept the offer. A good way of doing this is to reach out to a University recruiter for that company and explain the deadline you have. Usually, they’re really helpful and can potentially help skip interviews that you were supposed to do!
 
 In addition, if your friends were able to intern at places you’re interested in, you should definitely ask for a referral or to send your resume to the recruiter. This usually reduces the risk of being ghosted by that company and would increase your chances of getting hired!
@@ -190,7 +209,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 - **Go to office hours and become close with 1-2 professors** – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
 
-- **START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance.
+- **START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance. [A helpful video on procrastination](https://www.youtube.com/watch?v=TvRtVuwcrnY)
 
 In the quarters where I attended half of the lectures, never read the book, and crammed before due dates and exams, I was averaging a B in my classes. In the quarters where I followed the steps above, I never got a grade lower than an A-.
 
@@ -222,6 +241,7 @@ During your time in college, you’re most likely going to have at least one bad
 /u/rishiss: Projects are your saving grace, especially if you are lacking work experience. They show technical aptitude, willingness to take initiative, and leadership. I’ve seen people with only projects on their resume get positions at the Big N. Projects are good ways to expand your knowledge of CS as the possibilities are endless!
 It is best to have a variety of projects dealing with a variety of technologies. As such, you can open yourself up to more positions and have more talking points during the interview. I tend to edit the ‘Project’ Section of my resume with relevant projects and technologies. For instance, if I made a full stack web application and applied to a DevOps organization, I would highlight my AWS, CI/CD, and Terraform experiences more than my React/Node js work. 
 
+If you are just starting to make personal projects, just know that 
 
 ### Open Source Contributions
 
