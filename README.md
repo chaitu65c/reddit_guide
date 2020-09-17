@@ -140,7 +140,7 @@ If you weren’t able to find an internship/research opportunity as a freshman, 
 
 ### Data Structures and Algorithms
 
-In addition, you are most likely to take a Data Structures and Algorithms course this year. Make sure you are focusing on this class and writing good notes; you will need this knowledge when interviewing for internships and full-time jobs in the near future. Here is a link to our DS and A course (in C++) for [refernece](https://www.ics.uci.edu/~thornton/ics46/Schedule.html)
+In addition, you are most likely to take a Data Structures and Algorithms course this year. Make sure you are focusing on this class and writing good notes; you will need this knowledge when interviewing for internships and full-time jobs in the near future. Here is a link to our DS and A course (in C++) for [reference](https://www.ics.uci.edu/~thornton/ics46/Schedule.html)
 
 ## Junior Year
 
@@ -148,7 +148,7 @@ It’s time to get some skin in the game. As a junior, companies are more willin
 
 Continue to attend hackathons, remain active in clubs/organizations, and grow your portfolio.
 
-Classes will be much harder; expect the time for completeing projects to double and the content covered to be much more difficult. We reccomend taking no more than 2-3 upperdivision CS courses and balancing your load with 1-2 GE classes. You should not be taking more than 16 units (assuming 4 units per course).
+Classes will be much harder; expect the time for completing projects to double and the content covered to be much more difficult. We reccomend taking no more than 2-3 upperdivision CS courses and balancing your load with 1-2 GE classes. You should not be taking more than 16 units (assuming 4 units per course).
 
 Start to get an idea of what field in CS you would like to pursue. Research what it takes to be successful in that field. You can do so by looking up job postings with that title on LinkedIn and looking at the requested skillset or take a look at [Roadmap.sh](https://roadmap.sh/). If you want to learn more about a related skillset and your school doesn't offer a course, consider picking up a class on udemy.com. 
 
@@ -186,7 +186,7 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 - **Operating Systems/UNIX**: Most important class. Teaches you important things such as the kernel, Threads vs Processes and Process Schedulers.
 
-- **Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry
+- **Databases/SQL**: It’s very likely that your job as a software engineer will be to interact with databases. It’s really good to understand what they are before you enter the industry.
 
 - **Programming Languages**: Teaches you trade offs between languages like C and Python. It definitely helps when you need to pick up brand new languages!
 
@@ -197,11 +197,11 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 - **Very deep understanding of at least one language.** (You’ll be surprised to learn how many students who graduate fail to do this)
  
-- **Semester/Year-Long Capstone course (pref working with a company) if your school supports it:** an internship where you get credits instead of money.
+- **Semester/Year-Long Capstone course (pref working with a company) if your school supports it:** an internship where you get school credits instead of money.
 
 - **Compilers**: Teaches you how programming languages are implemented 'under the hood.'
 
-- **Human Computer Interaction**: If you weren’t able to learn Full-stack web dev
+- **Human Computer Interaction**: If you weren’t able to learn Full-stack web dev.
 
 
 ### How do I succeed in these classes?
@@ -319,7 +319,7 @@ Keep it simple; the content should be carrying you.
 If something you worked on had impact(reduced company cost by x%, etc), definitely mention it. Recruiters love seeing if your work was able to help someone or a company.
 Expect to be tested on anything you put on your resume. If you don’t think you can answer questions about a skill, tech, or experience on your resume, don’t bother putting it in.
 
-- **Make sure to add these items in your resume:** Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio)
+- **Make sure to add these items in your resume:** Name, School, GPA (unless its less than 3.0), Work Experience, Projects, Skills (one line for languages, one line for tools/platforms are what I’ve seen the most), relevant links (GitHub, Website, Portfolio).
 
 - **Take out any old or irrelevant experience.** Nobody cares about that Tic Tac Toe game you made in high school.
 
