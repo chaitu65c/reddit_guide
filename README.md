@@ -329,7 +329,7 @@ Searching for internships in CS is really different and harder from searching fo
 
 ### Timeline
 
-This imeline primarily focuses on large, non-government/defense companies or competetive startups. 
+This timeline primarily focuses on large, non-government/defense companies or competetive startups. This also assume you are applying for a summer internship.
 
 **August - September:** Applications are opened to the public. Make sure to look out for positions and apply early, as most companies admit students on a rolling basis. A site that we used often is [Apply.fyi](apply.fyi). After applying, you may receive an automated (< 48 hours) invitation to complete an Online Assessment, consisting of multiple choice and/or coding questions about Data Structures, Algorithms, and Run Time Complexity. You will have usually 1-2 weeks to complete the assessment. Please that you may be rejected if you are not able to pass 90% of the questions on the assessment: Please also note that you may be instantly rejected due to things out of your control like years of experience, cancellation of internship, internal corporate issues, and more. Don't take rejections too seriously; just keep applying!
 
@@ -339,6 +339,10 @@ After passing the resume screen and the OA, you will be contacted by the company
 **November - Mid January:** If you made it throught the two Thanos snaps, you will be invited to an onsite “Power-Day,” where interviewees attend 2-4 whiteboard interviews while being grilled on their technical skills and projects. Some companies make applicants go through a panel interview, where a team of 2-5 Software Engineers grill you on technical questions and your resume. You are often pampered with free travel, food, stipends, etc. 
 
 **December - February:** If you were deemed a good fit by the hiring committee, you will be extended an offer to intern at the company during the upcoming summer for 10-12 weeks. Remember, nothing is final until you receive an offer letter in your inbox. Some companies may also place you on a waitlist and offer you a spot if someone were to reject their offer letter.
+
+For government orgs, defense companies, and smaller organizations, the recruiting season starts in February/March and usually ends in April and May. After applying online and passing the resume screen, you will usually be immediately pushed to an on-site interview. Most likely, you will be interviewing with your future boss/co-worker. 
+
+Please note that internships are not only offered in the summer, they are provided in the Fall, Winter, and Spring (rarest) as well. The competition for these internships is usually lower, and the process usually starts 3-4 months beforehand.
 
 ### How to get the Interview
 
