@@ -290,7 +290,9 @@ If you’re looking to get an award, judges at hackathons care a lot about the p
 
 Career Group - When making a friend group dedicated to career, try to be the dumbest person in the group, you’re definitely going to learn a lot from them as you soak up knowledge! Best ways of meeting friends who are career-driven can be through major specific orientation (actually how I met /u/rishiss), courses, major related clubs, etc.
 
-Non-Career Group - While having a group that motivates you for your career is important, it’s also important to have another friend group that can help you relax and to enjoy your time! A really good way to find these friend groups can be anywhere from your hall to General Education courses, social clubs like Circle K, fraternities and sororities(if that’s your cup of tea) and others! 
+Non-Career Group - While having a group that motivates you for your career is important, it’s also important to have another friend group that can help you relax and to enjoy your time! A really good way to find these friend groups can be anywhere from your hall to General Education courses, social clubs like Circle K, fraternities and sororities(if that’s your cup of tea) and others!
+
+This is what has worked for us; no need to follow this exact format. 
 
 ## Resume
 
