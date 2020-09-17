@@ -83,9 +83,13 @@ Admittedly, it's hard to provide stronger insight to overcoming Imposter Syndrom
 
 ## Freshman Year
 
-Don’t take more than 3-4 classes in your first quarter/semester. Attend your classes, of course, but make sure to keep ample amount of time to go to professional/social events and self-learning. Leave your gaming tower or console at home. You have the priviledge of pursuing higher education, making valuable conncetion, and setting up your CS career in the trajectory you want. This year is the best year to take advantage of all that univeristy has to offer; make the most of it. 
+We reccomend not taking more than 3-4 classes in your first quarter/semester, as you shouold keep an ample amount of time to go to professional/social events, make new friends and hang out with them, and pursue your interests. 
 
-One of the best ways to get involved in your school’s/region’s CS community is by joining clubs like ACM and WICS and participating in hackathons (see ‘Hackathon’ section below). Try pursuinga internships and positions in these organizations and events as well! 
+We've seen a lot of freshmen (and upperclassmen) CS folks get cooped up in their dorm rooms playing video games and watching TV. We understand that these two are a passion for many, but please be cautious to not get consumed by them.
+
+You have the priviledge of pursuing higher education, making valuable connections/memories, and setting up your CS career in the trajectory you want. This year is the best year to take advantage of all that univeristy has to offer; make the most of it. 
+
+One of the best ways to get involved in your school’s/region’s CS community is by joining clubs like ACM and WICS and participating in hackathons (see ‘Hackathon’ section below). Try pursuing internships and positions in these organizations and events as well! 
 
 One, major issue we see with freshmen (even upperclassmen) is their ignorance on all the avenues available in the CS Industry. So we’ve tried to narrow it down (not exhaustive).
 
@@ -173,6 +177,8 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 - **Low Level Programming /C**: Teaches you what coding used to be like in the old days. 
 
+- **Computer Architecture**: You learn what makes a computer a computer including things like logic gates, x86 Assembly, registers, memory, and more.
+
 
 #### Must Take (While these classes may be optional in the curriculum, you will use the knowledge gained in these classes throughout your career)
 
@@ -206,11 +212,15 @@ Once you finally sign, definitely take the time to relax and enjoy as you’ve b
 
 - **Attend EVERY lecture, sit at the front of the class** – I’ve seen a metric fuck ton of students in the back of the class with their laptops shopping, trading stocks, scrolling through Reddit, even watching lesbian hentai. By sitting in the front of the class, you’re forced to stay engaged (and close your porn tabs).
 
-- **Take notes on Google Docs** – I’ve heard a lot of people say taking notes with pen and paper is better for memory retention, health, w.e. But tbh, there are times where I can’t keep up with the prof or I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. Make sure to note down the date and topic of the lecture. Write questions you have in comments. Highlight important information and possible test questions. Share the link with friends!
+- **Take notes on Google Docs** – *People have many, different ways of taking notes; stick with what works for you.*
+
+*The way I take note*s: I learn from examples; I want to enter my code into the IDE to see what happens. I  do a three way split; Google Docs on the left, IDE on top right and terminal (to compile, see output, make new file, etc) on bottom left. I note down the date and topic of the lecture write questions you have in the comments on Docs. I make sure to highlight important information and possible test questions. You can even share the link with friends!
 
 - **Make a study guide, even though the professor does not give you one** – Using my Google Docs notes, I compile the highlighted information into a summarized study guide. It’s a fantastic review tool. I’ve even shared the study guide with professors/classmates and gotten their feedback and extra information.
 
 - **Go to office hours and become close with 1-2 professors** – Some jobs and most masters/PHD programs require letters of recommendation. While you could get reccs from your work, its great to get a letter from someone in academia, especially if they’re established in the field you are pursuing. Get your ass to office hours and show professors that you are curious and motivated by asking questions about assignments, career, or even personal interests. They provide a cornucopia of opportunities, including research, letters of recc, or even the opportunity to pursue a PHD under them.  
+
+- **Make friends!** - Classes are a great way to meet new people with similar interests and expand your professional network. They can espically be a saving graves if you miss a class, don't understand a topic, and need motivation to prepare for an exam. Don't be afraid to say hello!
 
 - **START EARLY ON ASSIGNMENTS** – I can’t count the number of times starting an assignment early saved my ass.  Starting early gives you time to deal with the unexpected: the family emergencies, the late night hangout with friends, the memory leak on line 74. Procrastination is like playing Russian Roulette with your CS career, don’t take the chance. [A helpful video on procrastination](https://www.youtube.com/watch?v=TvRtVuwcrnY)
 
@@ -266,6 +276,8 @@ Participating in hackathons are one of the best ways to hone your coding skills,
 
 The biggest hackathon organizer is [Major League Hacking](https://mlh.io/). Visit their website, and you can see all the hackathons (remote or local) they are partnered with. Make to be on the lookout for application release dates from the hackathons and apply early.
 
+With Covid, you may miss out on the free goodies and the in-person networking with students and professionals. However, most hackathons are accepting many more applicants due to it being virtual/remote this year. 
+
 ### What Should I Do At Hacakathons?
 
 Take advantage of the resources available at hackathons. You’re attending a mini CS conference and should be, besides coding, networking with professionals, learning about the different companies, attending workshops, asking technical/non-technical questions to mentors, and getting as much free shit as you can get. Besides T-Shirts, companies give out vouchers to their services(such as free AWS/Azure/GCP credit!), applications to their internship and full-time positions, pillows, USB drives, socks, pencils/pens, notebooks, water bottles, sweaters, stickers, and even backpacks. 
@@ -313,7 +325,20 @@ Expect to be tested on anything you put on your resume. If you don’t think you
 
 ## Searching for Internships
 
-Searching for internships in CS is really different and harder from searching for internships in other professions. CS internship interview processes are often longer and much more technical on what you have learned as a CS major. For example, the process for Big Ns and Unicorns usually begins with an Online Assessment (OA) involving multiple choice and coding questions about Data Structures, Algorithms, and Run Time Complexity. After passing this OA, you may be invited to an onsite “Power-Day,” where interviewees attend 3-4 whiteboard interviews while being grilled on their technical skills and projects (You are often pampered with free travel, food, stipends, etc). 
+Searching for internships in CS is really different and harder from searching for internships in other professions. CS internship interview processes are often longer and much more technical on what you have learned as a CS major. We've prepped 2-3 months beforehand on CS concepts, whiteboarding, etc. 
+
+### Timeline
+
+This imeline primarily focuses on large, non-government/defense companies or competetive startups. 
+
+**August - September:** Applications are opened to the public. Make sure to look out for positions and apply early, as most companies admit students on a rolling basis. A site that we used often is [Apply.fyi](apply.fyi). After applying, you may receive an automated (< 48 hours) invitation to complete an Online Assessment, consisting of multiple choice and/or coding questions about Data Structures, Algorithms, and Run Time Complexity. You will have usually 1-2 weeks to complete the assessment. Please that you may be rejected if you are not able to pass 90% of the questions on the assessment: Please also note that you may be instantly rejected due to things out of your control like years of experience, cancellation of internship, internal corporate issues, and more. Don't take rejections too seriously; just keep applying!
+
+**October - November:** Some companies prefer to review resumes first and then give applicants an Online Assessment, so you may receive tests this time around as well. 
+After passing the resume screen and the OA, you will be contacted by the company's recruiter for a phone screen. During the screen, you will probably be asked a few confirmation questions about your resume, sponsorship, years of experience with X, etc. and minor behvavioral questions like what made you apply for this position, what are you pursuing outside of class, etc. You may also receive questions about your CS fundamentals e.g. what is a hashtable, whats the difference betrween a process and a thread, what is the runtime complexity of sorting a string, etc. As long as you're cool and confident (and not cringe/edgy), this part should be a breeze. 
+ 
+**November - Mid January:** If you made it throught the two Thanos snaps, you will be invited to an onsite “Power-Day,” where interviewees attend 2-4 whiteboard interviews while being grilled on their technical skills and projects. Some companies make applicants go through a panel interview, where a team of 2-5 Software Engineers grill you on technical questions and your resume. You are often pampered with free travel, food, stipends, etc. 
+
+**December - February:** If you were deemed a good fit by the hiring committee, you will be extended an offer to intern at the company during the upcoming summer for 10-12 weeks. Remember, nothing is final until you receive an offer letter in your inbox. Some companies may also place you on a waitlist and offer you a spot if someone were to reject their offer letter.
 
 ### How to get the Interview
 
@@ -361,6 +386,8 @@ The process for finding a Full-Time Job is usually very similar to finding an In
 3. **Compensation**: Interns usually get an hourly rate and, possibly, a housing stipedd. New grads, however, are given a yearly salary and, possibly, a sign-on bonus, stocks, and benefits e.g. health insurance, vacation days, etc.
 
 The process for finding a Full-time Job won’t really change as much as finding an internship, but keep in mind that the bar is higher. This is probably the biggest reason why you should look into interning early; by getting an offer at the place you like, you don’t necessarily need to go through the daunting process of finding a full-time role unless you want to negotiate for a higher compensation package.
+
+Get as many offers as you can this time around, so you can negotiate and select the position/company that works best for you. 
 
 ### Negotiation
 
